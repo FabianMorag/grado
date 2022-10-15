@@ -20,22 +20,23 @@ $$('.gen-preg')[0].addEventListener('click', async () => {
   let preguntas = ramos[ramo]
   let preguntasKeys = Object.keys(preguntas)
   let pregunta = preguntasKeys[rand(preguntasKeys.length)]
-  let respuesta = preguntas[pregunta].forEach((e) => e.replaceAll('\n', '<br>'))
+  let respuesta = preguntas[pregunta].map((e) => e.replaceAll('\n', '<br>'))
 
   let preg = document.createElement('li')
   preg.classList.add('list-group-item', 'list-group-item-primary')
   preg.textContent = pregunta
 
-  sessionStorage.setItem('respuesta', respuesta)
+  sessionStorage.setItem('respuesta', JSON.stringify(respuesta))
 
   $$('div>ul')[0].innerHTML = ''
   $$('div>ul')[0].append(preg)
 })
 
 $$('.gen-res')[0].addEventListener('click', () => {
-  let respuesta = sessionStorage.getItem('respuesta')
+  let respuesta = JSON.parse(sessionStorage.getItem('respuesta'))
   if (!respuesta) return
   sessionStorage.clear()
+
   respuesta.forEach((e) => {
     let res = document.createElement('li')
     res.classList.add('list-group-item', 'list-group-item-success')
