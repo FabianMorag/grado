@@ -36,8 +36,10 @@ $$('.gen-res')[0].addEventListener('click', () => {
   let respuesta = sessionStorage.getItem('respuesta')
   if (!respuesta) return
   sessionStorage.clear()
-  let res = document.createElement('li')
-  res.classList.add('list-group-item', 'list-group-item-success')
-  res.innerHTML = respuesta
-  $$('div>ul')[0].append(res)
+  respuesta.forEach((e) => {
+    let res = document.createElement('li')
+    res.classList.add('list-group-item', 'list-group-item-success')
+    res.innerHTML = e
+    $$('div>ul')[0].append(res)
+  })
 })
