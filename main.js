@@ -28,8 +28,8 @@ $$('.gen-preg')[0].addEventListener('click', async () => {
 
   sessionStorage.setItem('respuesta', respuesta)
 
-  $$('body>ul')[0].innerHTML = ''
-  $$('body>ul')[0].append(preg)
+  $$('div>ul')[0].innerHTML = ''
+  $$('div>ul')[0].append(preg)
 })
 
 $$('.gen-res')[0].addEventListener('click', () => {
@@ -39,5 +39,5 @@ $$('.gen-res')[0].addEventListener('click', () => {
   let res = document.createElement('li')
   res.classList.add('list-group-item', 'list-group-item-success')
   res.innerHTML = respuesta
-  $$('body>ul')[0].append(res)
+  $$('div>ul')[0].append(res)
 })
