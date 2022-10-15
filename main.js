@@ -20,7 +20,7 @@ $$('.gen-preg')[0].addEventListener('click', async () => {
   let preguntas = ramos[ramo]
   let preguntasKeys = Object.keys(preguntas)
   let pregunta = preguntasKeys[rand(preguntasKeys.length)]
-  let respuesta = preguntas[pregunta].replaceAll('\n', '<br>')
+  let respuesta = preguntas[pregunta].forEach((e) => e.replaceAll('\n', '<br>'))
 
   let preg = document.createElement('li')
   preg.classList.add('list-group-item', 'list-group-item-primary')
