@@ -79,11 +79,11 @@ $('#gen-todas')[0].addEventListener('click', () => {
 
   div.setAttribute('id', 'accordionFlushExample')
   getAllQuestions().then((data) => {
-    data.forEach((e) => div.append(createCollapsable(e)))
+    data.forEach((e, i) => div.append(createCollapsable(e, i + 1)))
   })
 })
 
-const createCollapsable = (item) => {
+const createCollapsable = (item, index) => {
   let { id, concepto, definicion } = item
 
   let divItem = document.createElement('div')
@@ -99,7 +99,7 @@ const createCollapsable = (item) => {
   button.setAttribute('data-bs-target', '#flush-collapse' + id)
   button.setAttribute('aria-expanded', 'false')
   button.setAttribute('aria-controls', 'flush-collapse' + id)
-  button.textContent = concepto
+  button.textContent = index + '. ' + concepto
   header.append(button)
   divItem.append(header)
 
