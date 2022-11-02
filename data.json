@@ -1,257 +1,940 @@
-{
-  "DERECHO CIVIL": {
-    "CONCEPTOS FUNDAMENTALES DEL DERECHO PRIVADO": {
-      "DERECHO CIVIL": [
-        "El derecho civil es el derecho privado, general, común y supletorio de las personas y de los bienes."
-      ],
-      "AUTONOMÍA DE LA VOLUNTAD": [
-        "Doctrina filosófica-jurídica que reconoce a los individuos el poder abstracto para autoregular sus relaciones e intereses y que, supone en concreto, la libertad de creación de derechos y obligaciones y el libre ejercicio de poderes y facultades sin intervención del legislador, sin otra limitación que no pueden ir en contra de una ley imperativa o prohibitiva, el orden público y las buenas costumbres."
-      ],
-      "CONSENSUALISMO": [
-        "El postulado es que el negocio o acto jurídico se generan en base al acuerdo de voluntades"
-      ],
-      "LIBERTAD CONTRACTUAL": [
-        "Es la aplicación de la autonomía privada al ámbito contractual. Así, las partes son libres para realizar el tipo de relaciones contractuales que se estimen convenientes sin intervención del legislador, sin otra limitación que no pueden ir contra la ley imperativa o prohibitiva, el orden público y las buenas costumbres."
-      ],
-      "FUERZA OBLIGATORIA DE LOS CONTRATOS (principio)": [
-        "- El principio de la fuerza obligatoria quiere decir que el contrato obliga y el Código Civil recurre a la idea de la ley, a la majestuosidad de la ley, para decir que, de la misma manera que esta obliga, los contratos también lo hacen y lo hacen fundamentalmente con el valor de la promesa que los contratantes hacen. El artículo 1545 dice que es una ley para los contratantes y entonces, no obligatorio para los terceros.\n- Supone la necesidad jurídica de que los pactos sean cumplidos (pacta sunt servanda)."
-      ],
-      "EFECTO RELATIVO DE LOS CONTRATOS": [
-        "Mandato de optimización en virtud del cual los contratos generan derechos y obligaciones únicamente para las partes que concurran a su celebración (res inter alias) y, a contrario sensu, no generan derechos y obligaciones para los terceros."
-      ],
-      "RESPONSABILIDAD": [
-        "Principio en virtud del cual una persona se encuentra en la necesidad efectiva o eventual de hacerse cargo de las consecuencias gravosas de un acto que se le atribuye como propio (Corral). Averiguar si esta definición es satisfactoria en atención a la resp. por hecho ajeno. "
-      ],
-      "RESPONSABILIDAD CIVIL": [
-        "Es la obligación que pesa sobre una persona de indemnizar los daños sufridos por otra (Marcel Planiol y Georges Ripert)"
-      ],
-      "RESPONSABILIDAD CONTRACTUAL": [
-        "Aquella que nace a consecuencia de la violación de un vínculo obligatorio preexistente (Orlando Tapia)"
-      ],
-      "RESPONSABILIDAD EXTRACONTRACTUAL": [
-        "Proviene de un hecho ilícito perpetrado por una persona en perjuicio de otra, que no constituye la violación de un deber contractual. (Apunte prepara)"
-      ],
-      "RECHAZO AL ENRIQUECIMIENTO SIN CAUSA": [
-        "Es el principio en que el Derecho repudia el enriquecimiento a expensas de otro sin una causa que lo justifique (Daniel Peñailillo)."
-      ],
-      "BUENA FE": [
-        "Principio funcional en virtud del cual el derecho presume en abstracto que las personas ejercen su autonomía privada, creyendo que actúan de manera correcta y ajustan su conducta a los parámetros socialmente aceptados como correctos."
-      ],
-      "BF OBJETIVA": [
-        "Módulo de conducta de carácter objetivo, referido a comportamiento externos que configuran una actuación real y correcta en el contexto de las relaciones jurídicas. Se aprecia en abstracto, atendiendo a la conducta socialmente exigible.\nAsí, se impone a los contratantes el deber de comportarse correcta y lealmente en sus relaciones mutuas, dese el inicio de los tratos preliminares y hasta incluso ulteriores momentos a la terminación del contrato."
-      ],
-      "BF SUBJETIVA": [
-        "Es la convicción interna o psicológica de encontrarse el sujeto en una situación jurídica regular; aunque objetivamente no sea así, aunque haya error. Se aprecia en concreto mediante la averiguación de la convicción íntima y personal."
-      ],
-      "ATRIBUTOS DE LA PERSONALIDAD": [
-        "Desde el punto de vista económico, son bienes extrapatrimoniales sin un significado o valor económico directo. Ello no impide que puedan llegar a tenerlo especialmente cuando se lesionan dichos atributos y hay lugar a una indemnización (Carlos Ducci en manual de Varas).\n\nNOMBRE, CAPACIDAD DE GOCE, NACIONALIDAD, ESTADO CIVIL, PATRIMONIO, DOMICILIO."
-      ],
-      "CONCEPTO JURÍDICO DE PERSONA": [
-        "- Todo ser capaz de tener derechos y obligaciones (Alessandri).\n- Hay diversos conceptos, pero tiene como elemento esencial: la aptitud reconocida por el ordenamiento jurídico de ser titular de derechos y obligaciones. Podemos señalar, entonces, que la idea de persona es una categoría técnico-jurídica, es decir, se es persona en los términos señalados toda vez que opera un reconocimiento del ordenamiento jurídico."
-      ],
-      "PERSONA NATURAL": [
-        "Art. 55 CC: todo aquel individuo de la especie humana cualquiera sea su edad, sexo, estirpe o condición"
-      ],
-      "PERSONA JURÍDICA": [
-        "- Art. 545 CC: persona ficticia, capaz de ejercer derechos y contraer obligaciones civiles, y de ser representada judicial y extrajudicialmente. (criticada por la doctrina porque enumera atributos pero no señala la esencia de la institución).\n- Todo ente abstracto que persigue fines de utilidad colectiva y al cual, como medio para la consecución de estos, la ley le reconoce capacidad de goce y de ejercicio. (Alessandri y Somarriva)."
-      ],
-      "MUERTE REAL": [
-        "fenómeno físico-biológico que se caracteriza por el cese definitivo de las funciones orgánicas de un ser vivo."
-      ],
-      "MUERTE CLÍNICA": [
-        "Art. 11 Ley sobre trasplantes y donación de órganos: abolición total e irreversible de todas las funciones encefálicas, lo que se acreditará con la certeza diagnóstica de la causa del mal, según parámetros clínicos corroborados por las pruebas o exámenes calificados."
-      ],
-      "NOMBRE": [
-        "No tiene definición en el CC, pero la jurisprudencia nos señala que corresponde a la designación que sirve para individualizar a una persona en la vida social y jurídica.\n\nCríticas: No siempre sirve para individualizar a una persona, pues pueden existir dos personas con el mismo nombre.\nArt. 58. bis, Ley 21.334 (SOBRE DETERMINACIÓN DEL ORDEN DE LOS APELLIDOS POR ACUERDO DE LOS PADRES) “Nombre es el conjunto de palabras que sirve legalmente para identificar a una persona. Está formado por el o los nombres propios, y por el o los apellidos con que se encuentre individualizada en su respectiva inscripción de nacimiento.”"
-      ],
-      "CAPACIDAD DE GOCE": [
-        "Es un elemento de la personalidad. Es la aptitud legal para adquirir derecho y obligaciones. (Alessandri en manual de Varas). Por ser un elemento esencial, el legislador no puede establecer una incapacidad general de goce porque ello equivale a extinguir la personalidad.\n\nÚnica excepción: dice relación con adquisición de terrenos en zonas fronterizas. Existe una disposición legal que establece que los ciudadanos peruanos, bolivianos y argentinos, no pueden adquirir terrenos o bienes inmuebles, en general, que se encuentren dentro de una faja colindante con la frontera. Esto fundamentalmente por razones geopolíticas. Constituye la única hipótesis en que se impide a una persona ser titular de un derecho. Es una excepción específica, pues dice relación con la nacionalidad de una persona y con ciertos bienes que se encuentran en un área determinada."
-      ],
-      "CAPACIDAD DE EJERCICIO": [
-        "No es un elemento de la personalidad. Es la aptitud de las personas para obrar por sí mismas en la vida civil (Alessandri en manual de Varas)."
-      ],
-      "NACIONALIDAD (Discutido como elemento de la personalidad)": [
-        "Vínculo que liga a una persona a un Estado determinado. En la actualidad es discutido su carácter de atributo de la personalidad, ya que existen personas que no la tienen (apátridas), o tienen dos nacionalidades, o bien, han renunciado a ella. Por lo tanto, es perfectamente concebible que una persona carezca de este atributo."
-      ],
-      "ESTADO CIVIL (discutido como elemento de la personalidad)": [
-        "Art. 304 CC el estado civil es la calidad de un individuo, en cuanto le habilita para ejercer ciertos derechos o contraer ciertas obligaciones civiles. (criticado por ambiguo. Se asemeja a definición de capacidad).\nPor esto, la doctrina señala que el estado civil es la posición permanente que un individuo ocupa en la sociedad, en orden a sus relaciones de familia, en cuanto le confiere o impone determinados derechos y obligaciones. Se ha discutido su carácter de atributo de la personalidad del estado civil. Es así que algunos autores dicen que no lo es, ya que, en la actualidad, todas las personas, por el hecho de ser tales, son personas, de modo que los estados por los que atraviesa en su vida sean estos cualquiera, ya chileno, ya extranjero, ya casado, viudo, padre o hijo natural o legítimo, no constituyen fundamento de su personalidad."
-      ],
-      "PATRIMONIO": [
-        "- El patrimonio se puede definir como un conjunto de bienes y deudas. Se puede considerar el patrimonio como un atributo de la personalidad porque es una especie de continente independientemente de cuál sea su actual contenido (Ríos).\n- Conjunto de derechos y obligaciones avaluables en dinero (Varas).\n- La mayor parte de la doctrina chilena señala que nuestro codex adhiere a la teoría del patrimonio como una universalidad jurídica. (La universalidad jurídica es efectivamente un conjunto de elementos que están reunidos por una finalidad común y están creadas como universalidad por el derecho. El patrimonio es, en este sentido, una universalidad jurídica, porque está compuesto por un conjunto de cosas singulares, vinculados también con un conjunto de no cosas, esto es, las deudas (un valor negativo), donde existe una cohesión relativamente débil, pero con una cohesión jurídica fuerte porque todas las deudas se pagan con las deudas. Los bienes están afectos a la finalidad de pagar las deudas y eso está creado por el derecho – apunte de ríos).\n- La idea de patrimonio es especialmente útil para explicar dos instituciones: el DR de herencia y el derecho de prenda general. "
-      ],
-      "DOMICILIO ": [
-        "Art. 59 CC: “El domicilio consiste en la residencia, acompañada, real o presuntivamente, del ánimo de permanecer en ella. Divídese en político y civil.”\nLa doctrina lo define como: el asiento jurídico de una persona para el ejercicio de sus derechos y cumplimiento de sus obligaciones.\nlas nociones de residencia y domicilio pueden converger en un mismo lugar, caso en el cual la única noción relevante será la de domicilio; o pueden referirse a lugares diversos."
-      ],
-      "DOMICILIO POLÍTICO (criterio geográfico)": [
-        "Art. 60 CC: es aquel relativo al territorio del Estado en general."
-      ],
-      "DOMICILIO CIVIL (atención a la comuna)": [
-        "Art. 61 CC: aquel relativo a una parte determinada del territorio del Estado. Este art. adolece de un error de precisión, puesto que no determina ninguna de las divisiones territoriales administrativas del Estado (regiones, provincias, comunas). Cabe entender la duda acerca de cuál de estas divisiones debemos atender. En general, se ha entendido que es esta determinación debe referirse a la comuna. En la práctica"
-      ],
-      "RESIDENCIA": [
-        "La residencia, que es el lugar donde habitualmente vive una persona. Siendo el domicilio el asiento de derecho, mientras que la residencia el asiento de hecho."
-      ],
-      "HABITACIÓN ": [
-        "asiento ocasional y esencialmente transitorio de una persona, careciendo de mayor relevancia en el derecho civil."
-      ],
-      "DERECHOS DE LA PERSONALIDAD": [
-        "“Tienen por fin defender intereses humanos ligados a la esencia de la personalidad. También se dice que son aquellos derechos que toda persona física, en la calidad de sujeto jurídico, lleva inseparable desde su origen y que no tienen otro presupuesto que la existencia de la persona”. (Alessandri en manual de Varas).\nSon innatos, absolutos (se oponen erga omnes), extrapatrimoniales (no susceptibles de una valoración pecuniaria, lo que no obsta que su lesión pueda dar lugar a una indemnización en dinero a título de compensación por el equivalente de aquellos bienes vulnerados), imprescriptibles e irrenunciables (duran toda la vida del titular)."
-      ],
-      "DERECHO A LA VIDA E INTEGRIDAD CORPORAL Y PSIQUICA": [
-        "Derecho esencial a la persona, asegurado por el art. 1 CPR (y amparado por el recurso de protección), y principalmente tutelado por el ordenamiento penal bajo la tipificación del homicidio (y sus clases), lesiones, amenazas, entre otros.  "
-      ],
-      "DERECHO AL HONOR": [
-        "- Derecho esencial de la persona, entendido por la jurisprudencia como la respetabilidad de una persona determinada por la posición que ocupa en la sociedad y la consideración que los demás tienen de él (Varas).\n- Amparado de forma directa por en el ámbito constitucional (rec. De protección), y en el campo penal (calumnias e injurias).\n- El CC se refiere al derecho al honor solamente en el art. 2331 que permite demandar indemnización de perjuicios por daño moral derivado de la lesión al honor. Para Varas, el código no protege el derecho al honor, aunque parte de la doctrina ha considerado que en la práctica se encuentra derogado tácitamente (por un fallo célebre del TC que declaró incaplicable parte del 2331 en razón de la igualdad) Manual de Varas."
-      ],
-      "D° A LA INTIMIDAD PRIVADA": [
-        "El que permite al individuo desarrollar su propia vida privada con el grado mínimo de interferencia, libre de perturbaciones que le ocasionen las autoridades y otros individuos, estén o no investidos de autoridad. (Ducci en manual de Varas)"
-      ],
-      "D° A LA PROPIA IMAGEN": [
-        "Protege la imagen física de una persona, evitando su reproducción y circulación indeseada. En la actualidad se considera que el derecho a su propia imagen es un derecho de la personalidad autónomo, pues la imagen es en sí es un elemento de la individualidad, y cuyo fin es la protección de la figura exteriorizada en sus rasgos físicos, y cuyo fundamento es la autonomía de la persona respecto de sí misma y sus manifestaciones (Eduardo Novoa). "
-      ],
-      "D° AL NOMBRE": [""]
-    },
-    "ACTO JURÍDICO": {
-      "CONCEPTO DE HECHO": [
-        "Conjunto de acaecimientos, sean de origen natural o humano, que mirados desde la perspectiva del Derecho, pueden clasificarse según si tienen o no relevancia jurídica, atendiendo a si producen o no consecuencias de Derecho. Varas."
-      ],
-      "HECHOS HUMANOS INVOLUNTARIOS CON RELEVANCIA JURÍDICA": [
-        "Sin capacidad volitiva, sin querer. Aquellos que son inconscientes, los de las y los dementes o infantes, los ejecutados en el sueño o estado de sonambulismo, o bajo hipnosis, o la ausencia de conciencia generada por el alcohol y las drogas."
-      ],
-      "HECHOS HUMANOS VOLUNTARIOS CON RELEVANCIA JURÍDICA": [
-        "Si el autor no quiso producir determinados efectos estamos ante un hecho jurídico (distinto de un hecho de relevancia jurídica). A estos hechos la ley atribuye un efecto jurídico diverso del querido por su autora, o derechamente, no querido por esto. Estos pueden ser lícitos (como los cuasicontratos por ejemplo en una comunidad no convencional o una agencia oficiosa), o bien ilícitos (como sucede con los delitos y cuasidelitos)",
-        "Si el autor (o los autores) quiso producir ciertos efectos tutelados por el Derecho, hablamos de actos jurídicos. Por eso se ha definido al acto jurídico como el “hecho humano consciente y voluntario destinado a producir efectos jurídicos determinados y queridos por su autor” (Ducci), o como la “manifestación de voluntad destinada a producir las consecuencias jurídicas queridas por su autor, y que las produce en cuanto la ley sanciona esa manifestación de voluntad” (Alessandri).\nLa postura de Alessandri la sigue Ríos. Ambos conceptos los recoge Varas en su manual. "
-      ],
-      "ACTO JURÍDICO UNILATERAL": [
-        "AJ UNILATERAL SIMPLE: (el autor es una sola persona) y pueden ser recepticios (i.e. dirigidos a alguien, como una oferta o una renuncia) o no recepticios (no dirigidos a nadie en particular, como el testamento).",
-        "AJ UNILATERAL COMPLEJO: la parte es más de una persona (como el acto constitutivo de una corporación). En este último caso, concurren varias personas en vista de un mismo interés"
-      ],
-      "ACTO JURIDICO BILATERAL": [
-        "Acuerdos de voluntad destinados a generar, modificar o extinguir obligaciones o derechos. (Varas)"
-      ],
-      "CONTRATO": [
-        "-Art. 1438: contrato o convención es un acto por el cual una parte se obliga para con otra a dar hacer o no hacer alguna cosa. Cada parte puede ser una o muchas personas.\n-Acto jurídico bilateral, o convención, destinado a crear obligaciones (Varas) (no me gusta porque asimila contrato a convención)\n-El contrato es un tipo de negocio jurídico de carácter bilateral. Pero tener en cuenta que un contrato unilateral es distinto de un negocio jurídico unilateral ya que el contrato siempre es un negocio jurídico bilateral que puede ser unilateral toda vez que se ve obligada a sólo una de las partes que no celebra o bilateral si ambas partes se ven obligadas por este"
-      ],
-      "CONVENCIÓN": [
-        "aquellos casos en que el acuerdo modifica o extingue derechos (como un mutuo disenso, o un acuerdo de modificación contractual) (Varas)"
-      ],
-      "ACTO JURÍDICO (entendido como el género, lato sensu)": [
-        "es el hecho voluntario que persigue efectos queridos por el autor, y comprende a los negocios jurídicos y a los actos jurídicos stricto sensu, es decir, a los actos jurídicos no negociales"
-      ],
-      "NEGOCIO JURÍDICO": [
-        "Acto ilocucionario de lenguaje, legalmente regulado, y cuyos efectos jurídicos realizan el fin práctico querido por su(s) autor(es)\n*El NJ es un acto de lenguaje, y el AJ en sentido estricto no lo es.\n*Acto performativo ilocucionario es aquel en que la acción contenida en el acto de habla se produce ipso facto. Es decir, al momento de decirlo, se realiza (bautizo, lego, designo, prometo, juro, etc.)"
-      ],
-      "ELEMENTOS DE LA ESENCIA": [
-        "Son los elementos necesarios (imprescindibles) y suficientes (basta sólo con ellos) para la generación del negocio jurídico. Son necesarios porque si faltan, el NJ no llega a existir, y suficientes porque bastan ellos para que el NJ exista. Sin estos elementos el negocio no produce efectos jurídicos o degenera en otro diferente.\nSon generales o especiales. "
-      ],
-      "ELEMENTOS DE LA NATURALEZA": [
-        "Son los que, no siendo esenciales en él, se entienden pertenecerle, sin necesidad de una declaración o cláusula especial."
-      ],
-      "ELEMENTOS PURAMENTE ACCIDENTALES": [
-        "son cláusulas que las partes pueden, en virtud de su autonomía privada, incorporar al negocio, sin alterar su esencia."
-      ],
-      "NJ UNILATERAL": [
-        "·         Derivan de la declaración de una parte, es decir, se requiere de la voluntad de una parte dar existencia al negocio (y no necesariamente de una persona porque una parte puede estar compuesta de varias personas). Se constituye por el acto de lenguaje de una parte.\n·         En su mayoría son solemnes para cautelar su libre emisión y también por motivos de seguridad jurídica, para que se pueda saber cuál es esa voluntad y que realmente ha existido.\n·         Ejemplos de negocios unilaterales son el testamento (“testador”), la oferta, la aceptación de la oferta, la aceptación o repudiación de una herencia o legado, la constitución de una EIRL, reconocimiento de un hijo, convalidación y ratificación, despido, renuncia, desahucio, revocación, retractación o retiro de una oferta./n·         Se clasifican en NJ subjetivamente simple y NJ unilaterales subjetivamente complejos (NJ unilaterales colectivos); y en NJ unilaterales recepticios y no recepticios."
-      ],
-      "NJ BILATERAL": [
-        "·         Derivan de la declaración de voluntad de más de una parte, de voluntades o intereses distintos. Este es el caso de todos los contratos —ya sean unilaterales o bilaterales — y de las convenciones no obligacionales.\n·         Se constituyen por el acto de lenguaje de más de una parte, es decir, son la convergencia de voluntades (“consentimiento”).\n·         Ejemplo de NJ bilateral son: la compraventa, el comodato, arrendamiento y mutuo disenso.\n·         Los NJ bilaterales pueden ser convención, y contrato (unilateral y bilateral). El 1438 usa convención y contrato como sinónimos, pero no son lo mismo según la doctrina y la jurisprudencia.\n·         Los contratos unilaterales son NJ bilaterales. "
-      ],
-      "CRITERIO DE DISTINCIÓN NJ BILATERAL E UNILATERAL": [
-        "El criterio para operar esta clasificación parece simple, pero es una simplicidad que no debe llamar a engaño: No se trata aquí del número de personas o sujetos de Derecho que concurren a un negocio (una o más de una), sino –cosa diversa- del número de partes cuya voluntad se requiere para formar el negocio. Dicho de otra manera, se atiende a si el negocio está constituido esencialmente por el acto de lenguaje de una sola parte o de más de una de ellas. Y una parte, como se sabe, puede estar constituida por una o por varias personas (Art. 1438)"
-      ],
-      "NJ ENTRE VIVOS": [
-        "Regla general. No requieren la muerte de una de las partes para producir efectos."
-      ],
-      "NJ PATRIMONIALES": [
-        "En los negocios patrimoniales las personas son libres para crear la relación y para regular su contenido con total libertad."
-      ],
-      "NJ SOLEMNES (SON EXCPECIONALES)": [
-        "El criterio que permite distinguir un negocio solemne consiste en verificar si acaso la ley exige un modo formal especial de realizar el acto de lenguaje para reconocer existencia al negocio (Varas).\nEj: promesa de celebrar un contrato."
-      ],
-      "NJ GRATUITO": [
-        "son gratuitos aquellos que tienen por finalidad producir utilidad o ganancia para una sola de las partes, como ocurre paradigmáticamente con la donación (Art. 1386), el comodato o préstamo de uso (Art. 2174), el mutuo sin intereses (Art. 2196), o el mandato sin remuneración (Art. 2116, 2117)."
-      ],
-      "NJ PUROS Y SIMPLES": [
-        "son los que producen sus efectos de inmediato, sin limitaciones, y sin particularidades subjetivas"
-      ],
-      "NJ SUJETOS A MODALIDAD": [
-        "Aquel en que la producción de los efectos se encuentra subordinada a cláusulas introducidas legal, convencional o unilateralmente con el fin de alterar sus efectos normales."
-      ],
-      "NJ PRINCIPAL": [
-        "es el negocio que es capaz de subsistir por sí mismo, sin necesidad de otra convención (como una compraventa, un arrendamiento, un mutuo)"
-      ],
-      "NJ ACCESORIO": [
-        "es el negocio que tiene por objeto asegurar el cumplimiento de una obligación principal, de modo que no pueda subsistir extinguida ésta (como una hipoteca, una fianza, una prenda).\n·         Nótese que los negocios accesorios pueden existir antes de la obligación principal, lo que no pueden hacer es subsistir (esto es, seguir existiendo) sin ellos. Esta anomalía lógica de la ley tiene una importante consecuencia práctica, pues permite la existencia –muy frecuente en la práctica bancaria- de las denominadas cláusulas de garantía general, en que se constituye primero la hipoteca, prenda o fianza, para garantizar las obligaciones que luego se contraigan entre las partes (Ver Art. 2413). Varas."
-      ],
-      "NJ DEPENDEINTES": [
-        "·         los negocios dependientes, surge por la constatación de que existen negocios (escasísimos, pero existen) que, no pudiendo subsistir sin una obligación principal, no tienen sin embargo por finalidad asegurar su cumplimiento (y por lo mismo no pueden clasificarse como accesorios ni como principales).\n·         Un ejemplo civil son las capitulaciones matrimoniales del artículo 1715; y otro el contrato de Aporte Financiero Reembolsable (Arts. 75 y 76 de la Ley General de Servicios Eléctricos)."
-      ],
-      "NJ TIPICOS O NOMINADOS": [
-        " Aquellos que pueden enmarcarse en alguno de los tipos dogmáticamente regulados. Varas."
-      ],
-      "REQUISITOS DE LOS NJ": [
-        "·         Son las condiciones que el ordenamiento jurídico exige para reconocer existencia y fuerza jurídica a las manifestaciones de la autonomía individual en el campo del Derecho Privado.\n·         Dicho de otra manera, los requisitos son la forma técnica mediante la que el ordenamiento jurídico (el Estado, en buenas cuentas) pone límites a la autonomía privada."
-      ],
-      "REQUISITOS DE VALIDEZArt. 1445": [
-        "Son aquellos que dan una existencia sana al acto, exenta de vicios. Pueden faltar y acto existe de todos modos, pero lo hace en forma viciada.\nVOLUNTAD SIN VICIOS – OBJETO LÍCITO – CAUSA LÍCITA - CAPACIDAD"
-      ],
-      "REQUISITOS DE EXISTENCIA Art. 1445": [
-        "Son aquellos necesarios para que el acto exista. Cuando falta, el derecho niega el nacimiento del negocio jurídico. Sin estos requisitos el negocio no puede nacer a la vida del derecho, no puede formarse.\nVOLUNTAD – OBJETO – CAUSA – SOLEMNIDADES (cuando la ley lo exige)"
-      ],
-      "VOLUNTAD": [
-        "·         El CC no lo define, pero lo señala como requisito de los NJ en el 1445.\n·         Voluntad como potencia: entendida como la “aptitud para querer”\n·         Voluntad como acto: Entendida como acto volitivo específico que admite o rehúye una cosa. (querer efectivo en concreto)"
-      ],
-      "CONSENTIMIENTO": [
-        "·         Asentimiento que cada parte presta a la voluntad que expresa la otra, de manera recíproca en los negocios bilaterales.\n·         Constituido por la concurrencia de una oferta y aceptación, ambos negocios unilaterales. En la práctica, claro, el consentimiento puede darse de modos muy diversos; de modo casi instantáneo, o ser el fruto de muy prolongadas negociaciones, o cualquier punto intermedio. Esas diferencias empíricas no obstan para nada a su unidad esencial: siempre el consentimiento estará formado por la cópula de una oferta y una aceptación.\n·         No fue regulado por el Código Civil, cuerpo legal que se limitó a exigirlo como requisito (Art. 1445). Esta significativa omisión legislativa fue salvada por el Código de Comercio (Arts 98 a 105 CCom), cuyas normas reciben aplicación, pese a ser especiales respecto de materias civiles generales."
-      ],
-      "SERIEDAD": [
-        "Existencia de una voluntad de obligarse en términos coactivos. La voluntad es seria cuando denota el propósito efectivo o firme de producir un resultado práctico amparado por el derecho"
-      ],
-      "OFERTA": [
-        "Negocio jurídico unilateral por medio del cual una parte propone a otra la celebración de una determinada convención, de modo tal que, aceptada pura y simplemente, quede perfecto el negocio. (Varas)"
-      ],
-      "OFERTA EXPRESA": [
-        "Efectuada en forma verbal o escrita, y que revela explícita y directamente el deseo de contratar"
-      ],
-      "OFERTA TÁCITA": [
-        "Cualquiera acción que inequívocamente, de acuerdo con los usos, tenga el efecto comunicativo de ser oferta"
-      ],
-      "ACEPTACIÓN ": [
-        "Negocio jurídico unilateral por medio del cual la parte a quien fue dirigida una oferta (denominado, como se sabe, la destinataria) manifiesta su conformidad con ella."
-      ],
-      "RESERVA TÁCITA O “RESERVATIO MENTALIS”": [
-        "·         Existe cuando la declarante reserva en secreto o en su mente su verdadera voluntad a sabiendas que lo declarado no responde a su intención.\n·         Supone que el receptor desconoce la voluntad real.\n·         Prevalece la voluntad declarada en razón de actos propios, que le son atribuibles a la declarante y que hacen que la voluntad interna pase a segundo plano.\n·         Para que vicie el acto, la otra parte debe saber que la voluntad declarada no es la deseada, caso en el cual la voluntad carece de uno de sus elementos: la seriedad."
-      ],
-      "DECLARACIÓN IOCANDI CAUSA.": [
-        "Declaración en la que la falta de seriedad se manifiesta en forma evidente, como promesas irrealizables, frases corteses o jactanciosas, frases de broma, ejemplos de cátedra, etc.\nPuede producir efectos cuando la persona destinataria creyó en la declaración, habiendo esta sido hecha en forma negligente o dolosa, y la primera reportado daño a causa de ella."
-      ],
-      "SIMULACIÓN": [
-        "Es la declaración de voluntad no real, emitida de manera consciente y de acuerdo entre las partes, para producir con fines de engaño la apariencia de un acto jurídico que no existe o que es distinto de aquel que realmente se ha llevado a cabo."
-      ],
-      "ACCIÓN DE SIMULACIÓN": [
-        "Acción personal y declarativa ejercida por los terceros a quienes perjudica la simulación, con el objeto de que el juez declare cual ha sido la voluntad real; o por las partes frente al desconocimiento de la contraparte de la voluntad real."
-      ],
-      "ERROR": [
-        "·         Ignorancia o falso concepto que se tiene de una cosa, hecho, persona o ley.\n·         Jurídicamente, es error tanto si proviene de equivocación o de ignorancia."
-      ],
-      "ERROR DE DERECHO": [
-        "Existen varias hipótesis.\n− Se ignora la existencia de la ley.\n− Se cree existente una norma inexistente.\n− Se conoce la existencia de una norma, ignorándose el contenido.\n− Se conoce la existencia y el contenido de una norma, pero se desconoce su significado."
-      ],
-      "Error común (de derecho)": [
-        "Es una categoría especial de error que genera efectos cuando se trata de un error de derecho. Se trata de una hipótesis en que el error no lo padece una persona, sino un conjunto de personas.\nLos efectos del error común es que los actos serán validados, pero en el futuro esos actos serán nulos. Como ya se habrá advertido, el efecto del error común es exactamente el contrario al efecto del error individual, que vicia y anula un acto que sin él sería válido: Valida un acto que de otro modo sería nulo."
-      ],
-      "ERROR DE HECHO": [
-        "Consiste en la falsa representación que se tiene, por ignorancia o equivocación, de una cosa, hecho o persona.\nEl Código chileno se aparta del Código francés y sigue las ideas de Pothier, distinguiendo tres clases de error, que son esencial, sustancial y accidental.\nDe las cuales sólo las dos primeras vician el consentimiento y lo hacen anulable."
-      ],
-      "EL ERROR ESENCIAL, OBSTÁCULO, OBSTATIVO O IMPEDIENTE": [
-        "Es el error que impide el acuerdo o convergencia de voluntades, y por ello, impide la formación del consentimiento. Por eso se lo denomina error obstáculo. En consecuencia, técnicamente no constituye un vicio (no puede estar viciado algo que no existe). Lo consagra el artículo 1453, disposición tomada de Pothier, y que no existe en el Código francés.\n\nSUPUESTOS DE ERROR ESENCIAL:\na. Cuando se yerra sobre la especie o tipo de acto jurídico que se ejecuta o celebra (error in negotio) una parte cree que es AJ traslaticio de dominio (CV) y el otro cree que no lo es (arrendamiento).\nb. cuando se yerra acerca de la identidad de la cosa específica de que se trata (error in corpore).\n    b.1. cuando la equivocación versa sobre individuos de diverso género (caballo y burro)\n    b.2 cuando el yerro recae en dos individuos diversos del mismo género (la vaca “Margaret” y la vaca “Golda”)"
-      ],
-      "ERROR SUSTANCIAL": [
-        "Es aquel que recae “sobre la sustancia o calidad esencial” de la cosa sobre la que versa el acto jurídico (Artículo 1454). Además, se asimilan a esta clase de error ciertos errores accidentales y el error in persona, bajo determinadas condiciones.\n\nSUPUESTOS DE ERROR SUSTANCIAL\na. Error en la sustancia: Es la materia de la cual se compone la cosa: una barra de plata (ejemplo CC), aunque también podría ser el vino por el vinagre, seda por satín; margarina por mantequilla, etc. Se trata de un error excusable\nb. Error en la calidad esencial: Es una cualidad intrínseca distinta de la materia, o la aptitud de que la cosa cumpla un determinado fin.\nCriterio subjetivo: Calidad esencial es aquel atributo de la cosa que una de las partes, o ambas, han tenido primordialmente en vista para contratar. Es insuficiente\nCriterio objetivo: En cambio, mirado el punto desde un prisma objetivo, calidad esencial es aquel atributo que conforma una cosa, y sin lo cual deja de ser lo que es.\nUna cualidad esencial es la autenticidad, por ejemplo, en las obras de arte. La sustancia de la Mona Lisa es, básicamente, pintura y tela, pero la gracia de la Mona Lisa no es su sustancia, sino su cualidad intrínseca de autenticidad. Además, dentro de la calidad esencial, cabe que la cosa cumpla un determinado fin, como sería con una entrada a un partido. Sobre la aptitud, por ejemplo, al comprar un auto pensando que era un Lamborghini cuando en realidad era una adaptación.\nc. Error accidental elevado a la categoría sustancial: es uno de los casos asimilados al error sustancial, para efectos de su sanción, y se contempla en el segundo inciso del artículo 1454. Se trata de equivocaciones sobre calidades no esenciales ni sustanciales, que, sin embargo, han sido el principal motivo o razón explicatoria de una de las partes para contratar, habiendo tenido la otra parte conocimiento de esa razón explicativa, lo cual es de incumbencia probatoria de quien alega el error.\nd. Error en la persona asimilado al error sustancial.\nSe trata de la especie de error en la que la equivocación o ignorancia recae sobre la persona con quien se contrata, cada vez que la consideración de esa persona sea la causa principal del contrato. (Art. 1455 inciso 1º).\nEl error puede recaer tanto sobre la identidad de la contraparte como sobre sus cualidades. (Es decir, tanto puede errarse creyendo contratar con Pedro Pérez cuando en verdad se contrata con Rodrigo Rodríguez; como creyendo contratar con Juan Pérez, artista del retrato al óleo, cuando se contrata realmente con el propio Juan Pérez, pero que es pintor profesional de brocha gorda).\nComo RG no vicia el consentimiento, excepto cuando la consideración de la persona es determinante en la celebración o ejecución del acto\n¿Cuándo ocurre que la consideración de la persona es determinante? Se trata de una cuestión de prueba, ya que cualquier acto puede ser celebrado en consideración a la persona de la contraparte. Esto es facilitado por la presunción doctrinal y jurisprudencial en actos que son (generalmente) intuituo personae.\n       ***Los actos de familia tienen una presunción de celebración en consideración a la persona, como el matrimonio, el reconocimiento de un hijo o la adopción.\n                *Caso del matrimonio: Ley de Matrimonio Civil (2004) establece que falta el consentimiento libre y espontáneo cuando hay error sobre las calidades personales determinantes para otorgar el consentimiento.\n      *** Los negocios patrimoniales gratuitos se presumen intuituo personae.\n      *** Los onerosos se presume lo contrario."
-      ],
-      "ERROR ACCIDENTAL": [
-        "Este error se puede definir por exclusión, es aquel que no es ni esencial, ni sustancial y que no haya sido elevado a la categoría de sustancial por las partes ya sea acordándolo o declarándolo a la otra parte. Recae sobre una cualidad de la cosa que no ha sido tenida en cuenta por la parte como determinante en la formación del contrato, en cuyo caso no vicia el consentimiento.\nEj: no se especificó el tamaño de las lentejas que se quería"
-      ]
-    }
+[
+  {
+    "id": "1",
+    "rama": "DERECHO CIVIL",
+    "asignatura": "CONCEPTOS FUNDAMENTALES DEL DERECHO PRIVADO",
+    "concepto": "DERECHO CIVIL",
+    "definicion": "El derecho civil es el derecho privado, general, común y supletorio de las personas y de los bienes."
+  },
+  {
+    "id": "2",
+    "rama": "DERECHO CIVIL",
+    "asignatura": "CONCEPTOS FUNDAMENTALES DEL DERECHO PRIVADO",
+    "concepto": "AUTONOMÍA DE LA VOLUNTAD",
+    "definicion": "Doctrina filosófica-jurídica que reconoce a los individuos el poder abstracto para autoregular sus relaciones e intereses y que, supone en concreto, la libertad de creación de derechos y obligaciones y el libre ejercicio de poderes y facultades sin intervención del legislador, sin otra limitación que no pueden ir en contra de una ley imperativa o prohibitiva, el orden público y las buenas costumbres."
+  },
+  {
+    "id": "3",
+    "rama": "DERECHO CIVIL",
+    "asignatura": "CONCEPTOS FUNDAMENTALES DEL DERECHO PRIVADO",
+    "concepto": "CONSENSUALISMO",
+    "definicion": "El postulado es que el negocio o acto jurídico se generan en base al acuerdo de voluntades"
+  },
+  {
+    "id": "4",
+    "rama": "DERECHO CIVIL",
+    "asignatura": "CONCEPTOS FUNDAMENTALES DEL DERECHO PRIVADO",
+    "concepto": "LIBERTAD CONTRACTUAL",
+    "definicion": "Es la aplicación de la autonomía privada al ámbito contractual. Así, las partes son libres para realizar el tipo de relaciones contractuales que se estimen convenientes sin intervención del legislador, sin otra limitación que no pueden ir contra la ley imperativa o prohibitiva, el orden público y las buenas costumbres."
+  },
+  {
+    "id": "5",
+    "rama": "DERECHO CIVIL",
+    "asignatura": "CONCEPTOS FUNDAMENTALES DEL DERECHO PRIVADO",
+    "concepto": "FUERZA OBLIGATORIA DE LOS CONTRATOS\n (principio)",
+    "definicion": "· El principio de la fuerza obligatoria quiere decir que el contrato obliga y el Código Civil recurre a la idea de la ley, a la majestuosidad de la ley, para decir que, de la misma manera que esta obliga, los contratos también lo hacen y lo hacen fundamentalmente con el valor de la promesa que los contratantes hacen. El artículo 1545 dice que es una ley para los contratantes y entonces, no obligatorio para los terceros.\n · Supone la necesidad jurídica de que los pactos sean cumplidos (pacta sunt servanda)."
+  },
+  {
+    "id": "6",
+    "rama": "DERECHO CIVIL",
+    "asignatura": "CONCEPTOS FUNDAMENTALES DEL DERECHO PRIVADO",
+    "concepto": "EFECTO RELATIVO DE LOS CONTRATOS",
+    "definicion": "Mandato de optimización en virtud del cual los contratos generan derechos y obligaciones únicamente para las partes que concurran a su celebración (res inter alias) y, a contrario sensu, no generan derechos y obligaciones para los terceros."
+  },
+  {
+    "id": "7",
+    "rama": "DERECHO CIVIL",
+    "asignatura": "CONCEPTOS FUNDAMENTALES DEL DERECHO PRIVADO",
+    "concepto": "RESPONSABILIDAD",
+    "definicion": "Principio en virtud del cual una persona se encuentra en la necesidad efectiva o eventual de hacerse cargo de las consecuencias gravosas de un acto que se le atribuye como propio (Corral). Averiguar si esta definición es satisfactoria en atención a la resp. por hecho ajeno."
+  },
+  {
+    "id": "8",
+    "rama": "DERECHO CIVIL",
+    "asignatura": "CONCEPTOS FUNDAMENTALES DEL DERECHO PRIVADO",
+    "concepto": "RESPONSABILIDAD CIVIL",
+    "definicion": "Es la obligación que pesa sobre una persona de indemnizar los daños sufridos por otra (Marcel Planiol y Georges Ripert)"
+  },
+  {
+    "id": "9",
+    "rama": "DERECHO CIVIL",
+    "asignatura": "CONCEPTOS FUNDAMENTALES DEL DERECHO PRIVADO",
+    "concepto": "RESPONSABILIDAD CONTRACTUAL",
+    "definicion": "Aquella que nace a consecuencia de la violación de un vínculo obligatorio preexistente (Orlando Tapia)"
+  },
+  {
+    "id": "10",
+    "rama": "DERECHO CIVIL",
+    "asignatura": "CONCEPTOS FUNDAMENTALES DEL DERECHO PRIVADO",
+    "concepto": "RESPONSABILIDAD EXTRACONTRACTUAL",
+    "definicion": "Proviene de un hecho ilícito perpetrado por una persona en perjuicio de otra, que no constituye la violación de un deber contractual. (Apunte prepara)"
+  },
+  {
+    "id": "11",
+    "rama": "DERECHO CIVIL",
+    "asignatura": "CONCEPTOS FUNDAMENTALES DEL DERECHO PRIVADO",
+    "concepto": "RECHAZO AL ENRIQUECIMIENTO SIN CAUSA",
+    "definicion": "Es el principio en que el Derecho repudia el enriquecimiento a expensas de otro sin una causa que lo justifique (Daniel Peñailillo)."
+  },
+  {
+    "id": "12",
+    "rama": "DERECHO CIVIL",
+    "asignatura": "CONCEPTOS FUNDAMENTALES DEL DERECHO PRIVADO",
+    "concepto": "BUENA FE",
+    "definicion": "Principio funcional en virtud del cual el derecho presume en abstracto que las personas ejercen su autonomía privada, creyendo que actúan de manera correcta y ajustan su conducta a los parámetros socialmente aceptados como correctos."
+  },
+  {
+    "id": "13",
+    "rama": "DERECHO CIVIL",
+    "asignatura": "CONCEPTOS FUNDAMENTALES DEL DERECHO PRIVADO",
+    "concepto": "BF OBJETIVA",
+    "definicion": "Módulo de conducta de carácter objetivo, referido a comportamiento externos que configuran una actuación real y correcta en el contexto de las relaciones jurídicas. Se aprecia en abstracto, atendiendo a la conducta socialmente exigible.\n Así, se impone a los contratantes el deber de comportarse correcta y lealmente en sus relaciones mutuas, dese el inicio de los tratos preliminares y hasta incluso ulteriores momentos a la terminación del contrato."
+  },
+  {
+    "id": "14",
+    "rama": "DERECHO CIVIL",
+    "asignatura": "CONCEPTOS FUNDAMENTALES DEL DERECHO PRIVADO",
+    "concepto": "BF SUBJETIVA",
+    "definicion": "Es la convicción interna o psicológica de encontrarse el sujeto en una situación jurídica regular; aunque objetivamente no sea así, aunque haya error. Se aprecia en concreto mediante la averiguación de la convicción íntima y personal."
+  },
+  {
+    "id": "15",
+    "rama": "DERECHO CIVIL",
+    "asignatura": "CONCEPTOS FUNDAMENTALES DEL DERECHO PRIVADO",
+    "concepto": "ATRIBUTOS DE LA PERSONALIDAD",
+    "definicion": "Desde el punto de vista económico, son bienes extrapatrimoniales sin un significado o valor económico directo. Ello no impide que puedan llegar a tenerlo especialmente cuando se lesionan dichos atributos y hay lugar a una indemnización (Carlos Ducci en manual de Varas).\n  \n NOMBRE, CAPACIDAD DE GOCE, NACIONALIDAD, ESTADO CIVIL, PATRIMONIO, DOMICILIO."
+  },
+  {
+    "id": "16",
+    "rama": "DERECHO CIVIL",
+    "asignatura": "CONCEPTOS FUNDAMENTALES DEL DERECHO PRIVADO",
+    "concepto": "CONCEPTO JURÍDICO DE PERSONA",
+    "definicion": "· Todo ser capaz de tener derechos y obligaciones (Alessandri).\n · Hay diversos conceptos, pero tiene como elemento esencial: la aptitud reconocida por el ordenamiento jurídico de ser titular de derechos y obligaciones. Podemos señalar, entonces, que la idea de persona es una categoría técnico-jurídica, es decir, se es persona en los términos señalados toda vez que opera un reconocimiento del ordenamiento jurídico."
+  },
+  {
+    "id": "17",
+    "rama": "DERECHO CIVIL",
+    "asignatura": "CONCEPTOS FUNDAMENTALES DEL DERECHO PRIVADO",
+    "concepto": "PERSONA NATURAL",
+    "definicion": "Art. 55 CC: todo aquel individuo de la especie humana cualquiera sea su edad, sexo, estirpe o condición"
+  },
+  {
+    "id": "18",
+    "rama": "DERECHO CIVIL",
+    "asignatura": "CONCEPTOS FUNDAMENTALES DEL DERECHO PRIVADO",
+    "concepto": "PERSONA JURÍDICA",
+    "definicion": "· Art. 545 CC: persona ficticia, capaz de ejercer derechos y contraer obligaciones civiles, y de ser representada judicial y extrajudicialmente. (criticada por la doctrina porque enumera atributos pero no señala la esencia de la institución).\n · Todo ente abstracto que persigue fines de utilidad colectiva y al cual, como medio para la consecución de estos, la ley le reconoce capacidad de goce y de ejercicio. (Alessandri y Somarriva)."
+  },
+  {
+    "id": "19",
+    "rama": "DERECHO CIVIL",
+    "asignatura": "CONCEPTOS FUNDAMENTALES DEL DERECHO PRIVADO",
+    "concepto": "MUERTE REAL",
+    "definicion": "fenómeno físico-biológico que se caracteriza por el cese definitivo de las funciones orgánicas de un ser vivo."
+  },
+  {
+    "id": "20",
+    "rama": "DERECHO CIVIL",
+    "asignatura": "CONCEPTOS FUNDAMENTALES DEL DERECHO PRIVADO",
+    "concepto": "MUERTE CLÍNICA",
+    "definicion": "Art. 11 Ley sobre trasplantes y donación de órganos: abolición total e irreversible de todas las funciones encefálicas, lo que se acreditará con la certeza diagnóstica de la causa del mal, según parámetros clínicos corroborados por las pruebas o exámenes calificados."
+  },
+  {
+    "id": "21",
+    "rama": "DERECHO CIVIL",
+    "asignatura": "CONCEPTOS FUNDAMENTALES DEL DERECHO PRIVADO",
+    "concepto": "NOMBRE",
+    "definicion": "No tiene definición en el CC, pero la jurisprudencia nos señala que corresponde a la designación que sirve para individualizar a una persona en la vida social y jurídica. \n  \n Críticas: No siempre sirve para individualizar a una persona, pues pueden existir dos personas con el mismo nombre.\n Art. 58. bis, Ley 21.334 (SOBRE DETERMINACIÓN DEL ORDEN DE LOS APELLIDOS POR ACUERDO DE LOS PADRES) “Nombre es el conjunto de palabras que sirve legalmente para identificar a una persona. Está formado por el o los nombres propios, y por el o los apellidos con que se encuentre individualizada en su respectiva inscripción de nacimiento.”"
+  },
+  {
+    "id": "22",
+    "rama": "DERECHO CIVIL",
+    "asignatura": "CONCEPTOS FUNDAMENTALES DEL DERECHO PRIVADO",
+    "concepto": "CAPACIDAD DE GOCE",
+    "definicion": "Es un elemento de la personalidad. Es la aptitud legal para adquirir derecho y obligaciones. (Alessandri en manual de Varas). Por ser un elemento esencial, el legislador no puede establecer una incapacidad general de goce porque ello equivale a extinguir la personalidad.\n Única excepción: dice relación con adquisición de terrenos en zonas fronterizas. Existe una disposición legal que establece que los ciudadanos peruanos, bolivianos y argentinos, no pueden adquirir terrenos o bienes inmuebles, en general, que se encuentren dentro de una faja colindante con la frontera. Esto fundamentalmente por razones geopolíticas. Constituye la única hipótesis en que se impide a una persona ser titular de un derecho. Es una excepción específica, pues dice relación con la nacionalidad de una persona y con ciertos bienes que se encuentran en un área determinada."
+  },
+  {
+    "id": "23",
+    "rama": "DERECHO CIVIL",
+    "asignatura": "CONCEPTOS FUNDAMENTALES DEL DERECHO PRIVADO",
+    "concepto": "CAPACIDAD DE EJERCICIO",
+    "definicion": "No es un elemento de la personalidad. Es la aptitud de las personas para obrar por sí mismas en la vida civil (Alessandri en manual de Varas)."
+  },
+  {
+    "id": "24",
+    "rama": "DERECHO CIVIL",
+    "asignatura": "CONCEPTOS FUNDAMENTALES DEL DERECHO PRIVADO",
+    "concepto": "NACIONALIDAD\n (Discutido como elemento de la personalidad)",
+    "definicion": "Vínculo que liga a una persona a un Estado determinado. En la actualidad es discutido su carácter de atributo de la personalidad, ya que existen personas que no la tienen (apátridas), o tienen dos nacionalidades, o bien, han renunciado a ella. Por lo tanto, es perfectamente concebible que una persona carezca de este atributo."
+  },
+  {
+    "id": "25",
+    "rama": "DERECHO CIVIL",
+    "asignatura": "CONCEPTOS FUNDAMENTALES DEL DERECHO PRIVADO",
+    "concepto": "ESTADO CIVIL\n (discutido como elemento de la personalidad)",
+    "definicion": "Art. 304 CC el estado civil es la calidad de un individuo, en cuanto le habilita para ejercer ciertos derechos o contraer ciertas obligaciones civiles. (criticado por ambiguo. Se asemeja a definición de capacidad).\n Por esto, la doctrina señala que el estado civil es la posición permanente que un individuo ocupa en la sociedad, en orden a sus relaciones de familia, en cuanto le confiere o impone determinados derechos y obligaciones. Se ha discutido su carácter de atributo de la personalidad del estado civil. Es así que algunos autores dicen que no lo es, ya que, en la actualidad, todas las personas, por el hecho de ser tales, son personas, de modo que los estados por los que atraviesa en su vida sean estos cualquiera, ya chileno, ya extranjero, ya casado, viudo, padre o hijo natural o legítimo, no constituyen fundamento de su personalidad."
+  },
+  {
+    "id": "26",
+    "rama": "DERECHO CIVIL",
+    "asignatura": "CONCEPTOS FUNDAMENTALES DEL DERECHO PRIVADO",
+    "concepto": "PATRIMONIO",
+    "definicion": "· El patrimonio se puede definir como un conjunto de bienes y deudas. Se puede considerar el patrimonio como un atributo de la personalidad porque es una especie de continente independientemente de cuál sea su actual contenido (Ríos).\n · Conjunto de derechos y obligaciones avaluables en dinero (Varas).\n · La mayor parte de la doctrina chilena señala que nuestro codex adhiere a la teoría del patrimonio como una universalidad jurídica. (La universalidad jurídica es efectivamente un conjunto de elementos que están reunidos por una finalidad común y están creadas como universalidad por el derecho. El patrimonio es, en este sentido, una universalidad jurídica, porque está compuesto por un conjunto de cosas singulares, vinculados también con un conjunto de no cosas, esto es, las deudas (un valor negativo), donde existe una cohesión relativamente débil, pero con una cohesión jurídica fuerte porque todas las deudas se pagan con las deudas. Los bienes están afectos a la finalidad de pagar las deudas y eso está creado por el derecho – apunte de ríos).\n · La idea de patrimonio es especialmente útil para explicar dos instituciones: el DR de herencia y el derecho de prenda general."
+  },
+  {
+    "id": "27",
+    "rama": "DERECHO CIVIL",
+    "asignatura": "CONCEPTOS FUNDAMENTALES DEL DERECHO PRIVADO",
+    "concepto": "DOMICILIO",
+    "definicion": "Art. 59 CC: “El domicilio consiste en la residencia, acompañada, real o presuntivamente, del ánimo de permanecer en ella. Divídese en político y civil.”\n La doctrina lo define como: el asiento jurídico de una persona para el ejercicio de sus derechos y cumplimiento de sus obligaciones.\n las nociones de residencia y domicilio pueden converger en un mismo lugar, caso en el cual la única noción relevante será la de domicilio; o pueden referirse a lugares diversos."
+  },
+  {
+    "id": "28",
+    "rama": "DERECHO CIVIL",
+    "asignatura": "CONCEPTOS FUNDAMENTALES DEL DERECHO PRIVADO",
+    "concepto": "DOMICILIO POLÍTICO\n (criterio geográfico)",
+    "definicion": "Art. 60 CC: es aquel relativo al territorio del Estado en general."
+  },
+  {
+    "id": "29",
+    "rama": "DERECHO CIVIL",
+    "asignatura": "CONCEPTOS FUNDAMENTALES DEL DERECHO PRIVADO",
+    "concepto": "DOMICILIO CIVIL \n (atención a la comuna)",
+    "definicion": "Art. 61 CC: aquel relativo a una parte determinada del territorio del Estado. Este art. adolece de un error de precisión, puesto que no determina ninguna de las divisiones territoriales administrativas del Estado (regiones, provincias, comunas). Cabe entender la duda acerca de cuál de estas divisiones debemos atender. En general, se ha entendido que es esta determinación debe referirse a la comuna. En la práctica"
+  },
+  {
+    "id": "30",
+    "rama": "DERECHO CIVIL",
+    "asignatura": "CONCEPTOS FUNDAMENTALES DEL DERECHO PRIVADO",
+    "concepto": "RESIDENCIA",
+    "definicion": "La residencia, que es el lugar donde habitualmente vive una persona. Siendo el domicilio el asiento de derecho, mientras que la residencia el asiento de hecho."
+  },
+  {
+    "id": "31",
+    "rama": "DERECHO CIVIL",
+    "asignatura": "CONCEPTOS FUNDAMENTALES DEL DERECHO PRIVADO",
+    "concepto": "HABITACIÓN",
+    "definicion": "asiento ocasional y esencialmente transitorio de una persona, careciendo de mayor relevancia en el derecho civil."
+  },
+  {
+    "id": "32",
+    "rama": "DERECHO CIVIL",
+    "asignatura": "CONCEPTOS FUNDAMENTALES DEL DERECHO PRIVADO",
+    "concepto": "DERECHOS DE LA PERSONALIDAD",
+    "definicion": "“Tienen por fin defender intereses humanos ligados a la esencia de la personalidad. También se dice que son aquellos derechos que toda persona física, en la calidad de sujeto jurídico, lleva inseparable desde su origen y que no tienen otro presupuesto que la existencia de la persona”. (Alessandri en manual de Varas).\n Son innatos, absolutos (se oponen erga omnes), extrapatrimoniales (no susceptibles de una valoración pecuniaria, lo que no obsta que su lesión pueda dar lugar a una indemnización en dinero a título de compensación por el equivalente de aquellos bienes vulnerados), imprescriptibles e irrenunciables (duran toda la vida del titular)."
+  },
+  {
+    "id": "33",
+    "rama": "DERECHO CIVIL",
+    "asignatura": "CONCEPTOS FUNDAMENTALES DEL DERECHO PRIVADO",
+    "concepto": "DERECHO A LA VIDA E INTEGRIDAD CORPORAL Y PSIQUICA",
+    "definicion": "Derecho esencial a la persona, asegurado por el art. 1 CPR (y amparado por el recurso de protección), y principalmente tutelado por el ordenamiento penal bajo la tipificación del homicidio (y sus clases), lesiones, amenazas, entre otros."
+  },
+  {
+    "id": "34",
+    "rama": "DERECHO CIVIL",
+    "asignatura": "CONCEPTOS FUNDAMENTALES DEL DERECHO PRIVADO",
+    "concepto": "DERECHO AL HONOR",
+    "definicion": "· Derecho esencial de la persona, entendido por la jurisprudencia como la respetabilidad de una persona determinada por la posición que ocupa en la sociedad y la consideración que los demás tienen de él (Varas). \n · Amparado de forma directa por en el ámbito constitucional (rec. De protección), y en el campo penal (calumnias e injurias). \n · El CC se refiere al derecho al honor solamente en el art. 2331 que permite demandar indemnización de perjuicios por daño moral derivado de la lesión al honor. Para Varas, el código no protege el derecho al honor, aunque parte de la doctrina ha considerado que en la práctica se encuentra derogado tácitamente (por un fallo célebre del TC que declaró incaplicable parte del 2331 en razón de la igualdad) Manual de Varas."
+  },
+  {
+    "id": "35",
+    "rama": "DERECHO CIVIL",
+    "asignatura": "CONCEPTOS FUNDAMENTALES DEL DERECHO PRIVADO",
+    "concepto": "D° A LA INTIMIDAD PRIVADA",
+    "definicion": "El que permite al individuo desarrollar su propia vida privada con el grado mínimo de interferencia, libre de perturbaciones que le ocasionen las autoridades y otros individuos, estén o no investidos de autoridad. (Ducci en manual de Varas)"
+  },
+  {
+    "id": "36",
+    "rama": "DERECHO CIVIL",
+    "asignatura": "CONCEPTOS FUNDAMENTALES DEL DERECHO PRIVADO",
+    "concepto": "D° A LA PROPIA IMAGEN",
+    "definicion": "Protege la imagen física de una persona, evitando su reproducción y circulación indeseada. En la actualidad se considera que el derecho a su propia imagen es un derecho de la personalidad autónomo, pues la imagen es en sí es un elemento de la individualidad, y cuyo fin es la protección de la figura exteriorizada en sus rasgos físicos, y cuyo fundamento es la autonomía de la persona respecto de sí misma y sus manifestaciones (Eduardo Novoa)."
+  },
+  {
+    "id": "37",
+    "rama": "DERECHO CIVIL",
+    "asignatura": "CONCEPTOS FUNDAMENTALES DEL DERECHO PRIVADO",
+    "concepto": "D° AL NOMBRE",
+    "definicion": null
+  },
+  {
+    "id": "38",
+    "rama": "DERECHO CIVIL",
+    "asignatura": "ACTO JURÍDICO",
+    "concepto": "CONCEPTO DE HECHO",
+    "definicion": "Conjunto de acaecimientos, sean de origen natural o humano, que mirados desde la perspectiva del Derecho, pueden clasificarse según si tienen o no relevancia jurídica, atendiendo a si producen o no consecuencias de Derecho. Varas."
+  },
+  {
+    "id": "39",
+    "rama": "DERECHO CIVIL",
+    "asignatura": "ACTO JURÍDICO",
+    "concepto": "HECHOS HUMANOS INVOLUNTARIOS\n CON RELEVANCIA JURÍDICA",
+    "definicion": "Sin capacidad volitiva, sin querer. Aquellos que son inconscientes, los de las y los dementes o infantes, los ejecutados en el sueño o estado de sonambulismo, o bajo hipnosis, o la ausencia de conciencia generada por el alcohol y las drogas."
+  },
+  {
+    "id": "40",
+    "rama": "DERECHO CIVIL",
+    "asignatura": "ACTO JURÍDICO",
+    "concepto": "HECHOS HUMANOS VOLUNTARIOS CON\nRELEVANCIA JURÍDICA",
+    "definicion": "Si el autor no quiso producir determinados efectos estamos ante un hecho jurídico (distinto de un hecho de relevancia jurídica). A estos hechos la ley atribuye un efecto jurídico diverso del querido por su autora, o derechamente, no querido por esto. Estos pueden ser lícitos (como los cuasicontratos por ejemplo en una comunidad no convencional o una agencia oficiosa), o bien ilícitos (como sucede con los delitos y cuasidelitos)"
+  },
+  {
+    "id": "41",
+    "rama": "DERECHO CIVIL",
+    "asignatura": "ACTO JURÍDICO",
+    "concepto": "HECHOS HUMANOS VOLUNTARIOS CON\nRELEVANCIA JURÍDICA",
+    "definicion": "Si el autor (o los autores) quiso producir ciertos efectos tutelados por el Derecho, hablamos de actos jurídicos. Por eso se ha definido al acto jurídico como el “hecho humano consciente y voluntario destinado a producir efectos jurídicos determinados y queridos por su autor” (Ducci),\n o como la “manifestación de voluntad destinada a producir las consecuencias jurídicas queridas por su autor, y que las produce en cuanto la ley sanciona esa manifestación de voluntad” (Alessandri). \n La postura de Alessandri la sigue Ríos. Ambos conceptos los recoge Varas en su manual."
+  },
+  {
+    "id": "42",
+    "rama": "DERECHO CIVIL",
+    "asignatura": "ACTO JURÍDICO",
+    "concepto": "ACTO JURÍDICO UNILATERAL",
+    "definicion": "AJ UNILATERAL SIMPLE: (el autor es una sola persona) y pueden ser recepticios (i.e. dirigidos a alguien, como una oferta o una renuncia) o no recepticios (no dirigidos a nadie en particular, como el testamento)."
+  },
+  {
+    "id": "43",
+    "rama": "DERECHO CIVIL",
+    "asignatura": "ACTO JURÍDICO",
+    "concepto": "ACTO JURÍDICO UNILATERAL",
+    "definicion": "AJ UNILATERAL COMPLEJO: la parte es más de una persona (como el acto constitutivo de una corporación). En este último caso, concurren varias personas en vista de un mismo interés"
+  },
+  {
+    "id": "44",
+    "rama": "DERECHO CIVIL",
+    "asignatura": "ACTO JURÍDICO",
+    "concepto": "ACTO JURIDICO BILATERAL",
+    "definicion": "Acuerdos de voluntad destinados a generar, modificar o extinguir obligaciones o derechos. (Varas)"
+  },
+  {
+    "id": "45",
+    "rama": "DERECHO CIVIL",
+    "asignatura": "ACTO JURÍDICO",
+    "concepto": "CONTRATO",
+    "definicion": "-Art. 1438: contrato o convención es un acto por el cual una parte se obliga para con otra a dar hacer o no hacer alguna cosa. Cada parte puede ser una o muchas personas.\n -Acto jurídico bilateral, o convención, destinado a crear obligaciones (Varas) (no me gusta porque asimila contrato a convención)\n -El contrato es un tipo de negocio jurídico de carácter bilateral. Pero tener en cuenta que un contrato unilateral es distinto de un negocio jurídico unilateral ya que el contrato siempre es un negocio jurídico bilateral que puede ser unilateral toda vez que se ve obligada a sólo una de las partes que no celebra o bilateral si ambas partes se ven obligadas por este"
+  },
+  {
+    "id": "46",
+    "rama": "DERECHO CIVIL",
+    "asignatura": "ACTO JURÍDICO",
+    "concepto": "CONVENCIÓN",
+    "definicion": "aquellos casos en que el acuerdo modifica o extingue derechos (como un mutuo disenso, o un acuerdo de modificación contractual) (Varas)"
+  },
+  {
+    "id": "47",
+    "rama": "DERECHO CIVIL",
+    "asignatura": "ACTO JURÍDICO",
+    "concepto": "ACTO JURÍDICO (entendido como el género, lato sensu)",
+    "definicion": "es el hecho voluntario que persigue efectos queridos por el autor, y comprende a los negocios jurídicos y a los actos jurídicos stricto sensu, es decir, a los actos jurídicos no negociales"
+  },
+  {
+    "id": "48",
+    "rama": "DERECHO CIVIL",
+    "asignatura": "ACTO JURÍDICO",
+    "concepto": "NEGOCIO JURÍDICO",
+    "definicion": "Acto ilocucionario de lenguaje, legalmente regulado, y cuyos efectos jurídicos realizan el fin práctico querido por su(s) autor(es)\n *El NJ es un acto de lenguaje, y el AJ en sentido estricto no lo es. \n *Acto performativo ilocucionario es aquel en que la acción contenida en el acto de habla se produce ipso facto. Es decir, al momento de decirlo, se realiza (bautizo, lego, designo, prometo, juro, etc.)"
+  },
+  {
+    "id": "49",
+    "rama": "DERECHO CIVIL",
+    "asignatura": "ACTO JURÍDICO",
+    "concepto": "ELEMENTOS DE LA ESENCIA",
+    "definicion": "Son los elementos necesarios (imprescindibles) y suficientes (basta sólo con ellos) para la generación del negocio jurídico. Son necesarios porque si faltan, el NJ no llega a existir, y suficientes porque bastan ellos para que el NJ exista. Sin estos elementos el negocio no produce efectos jurídicos o degenera en otro diferente.\n Son generales o especiales."
+  },
+  {
+    "id": "50",
+    "rama": "DERECHO CIVIL",
+    "asignatura": "ACTO JURÍDICO",
+    "concepto": "ELEMENTOS DE LA NATURALEZA",
+    "definicion": "Son los que, no siendo esenciales en él, se entienden pertenecerle, sin\n necesidad de una declaración o cláusula especial."
+  },
+  {
+    "id": "51",
+    "rama": "DERECHO CIVIL",
+    "asignatura": "ACTO JURÍDICO",
+    "concepto": "ELEMENTOS PURAMENTE ACCIDENTALES",
+    "definicion": "son cláusulas que las partes pueden, en virtud de su autonomía privada, incorporar al negocio, sin alterar su esencia."
+  },
+  {
+    "id": "52",
+    "rama": "DERECHO CIVIL",
+    "asignatura": "ACTO JURÍDICO",
+    "concepto": "NJ UNILATERAL",
+    "definicion": "· Derivan de la declaración de una parte, es decir, se requiere de la voluntad de una parte dar existencia al negocio (y no necesariamente de una persona porque una parte puede estar compuesta de varias personas). Se constituye por el acto de lenguaje de una parte.\n · En su mayoría son solemnes para cautelar su libre emisión y también por motivos de seguridad jurídica, para que se pueda saber cuál es esa voluntad y que realmente ha existido. \n · Ejemplos de negocios unilaterales son el testamento (“testador”), la oferta, la aceptación de la oferta, la aceptación o repudiación de una herencia o legado, la constitución de una EIRL, reconocimiento de un hijo, convalidación y ratificación, despido, renuncia, desahucio, revocación, retractación o retiro de una oferta.\n · Se clasifican en NJ subjetivamente simple y NJ unilaterales subjetivamente complejos (NJ unilaterales colectivos); y en NJ unilaterales recepticios y no recepticios."
+  },
+  {
+    "id": "53",
+    "rama": "DERECHO CIVIL",
+    "asignatura": "ACTO JURÍDICO",
+    "concepto": "NJ BILATERAL",
+    "definicion": "· Derivan de la declaración de voluntad de más de una parte, de voluntades o intereses distintos. Este es el caso de todos los contratos —ya sean unilaterales o bilaterales — y de las convenciones no obligacionales. \n · Se constituyen por el acto de lenguaje de más de una parte, es decir, son la convergencia de voluntades (“consentimiento”).\n · Ejemplo de NJ bilateral son: la compraventa, el comodato, arrendamiento y mutuo disenso.\n · Los NJ bilaterales pueden ser convención, y contrato (unilateral y bilateral). El 1438 usa convención y contrato como sinónimos, pero no son lo mismo según la doctrina y la jurisprudencia.\n · Los contratos unilaterales son NJ bilaterales."
+  },
+  {
+    "id": "54",
+    "rama": "DERECHO CIVIL",
+    "asignatura": "ACTO JURÍDICO",
+    "concepto": "CRITERIO DE DISTINCIÓN NJ BILATERAL E UNILATERAL",
+    "definicion": "El criterio para operar esta clasificación parece simple, pero es una simplicidad que no debe llamar a engaño: No se trata aquí del número de personas o sujetos de Derecho que concurren a un negocio (una o más de una), sino –cosa diversa- del número de partes cuya voluntad se requiere para formar el negocio. Dicho de otra manera, se atiende a si el negocio está constituido esencialmente por el acto de lenguaje de una sola parte o de más de una de ellas. Y una parte, como se sabe, puede estar constituida por una o por varias personas (Art. 1438)"
+  },
+  {
+    "id": "55",
+    "rama": "DERECHO CIVIL",
+    "asignatura": "ACTO JURÍDICO",
+    "concepto": "NJ ENTRE VIVOS",
+    "definicion": "Regla general. No requieren la muerte de una de las partes para producir efectos."
+  },
+  {
+    "id": "56",
+    "rama": "DERECHO CIVIL",
+    "asignatura": "ACTO JURÍDICO",
+    "concepto": "NJ PATRIMONIALES",
+    "definicion": "En los negocios patrimoniales las personas son libres para crear la relación y para regular su contenido con total libertad."
+  },
+  {
+    "id": "57",
+    "rama": "DERECHO CIVIL",
+    "asignatura": "ACTO JURÍDICO",
+    "concepto": "NJ SOLEMNES\n (SON EXCPECIONALES)",
+    "definicion": "El criterio que permite distinguir un negocio solemne consiste en verificar si acaso la ley exige un modo formal especial de realizar el acto de lenguaje para reconocer existencia al negocio (Varas).\n Ej: promesa de celebrar un contrato."
+  },
+  {
+    "id": "58",
+    "rama": "DERECHO CIVIL",
+    "asignatura": "ACTO JURÍDICO",
+    "concepto": "NJ GRATUITO",
+    "definicion": "son gratuitos aquellos que tienen por finalidad producir utilidad o ganancia para una sola de las partes, como ocurre paradigmáticamente con la donación (Art. 1386), el comodato o préstamo de uso (Art. 2174), el mutuo sin intereses (Art. 2196), o el mandato sin remuneración (Art. 2116, 2117)."
+  },
+  {
+    "id": "59",
+    "rama": "DERECHO CIVIL",
+    "asignatura": "ACTO JURÍDICO",
+    "concepto": "NJ PUROS Y SIMPLES",
+    "definicion": "son los que producen sus efectos de inmediato, sin limitaciones, y sin particularidades subjetivas"
+  },
+  {
+    "id": "60",
+    "rama": "DERECHO CIVIL",
+    "asignatura": "ACTO JURÍDICO",
+    "concepto": "NJ SUJETOS A MODALIDAD",
+    "definicion": "Aquel en que la producción de los efectos se encuentra subordinada a cláusulas introducidas legal, convencional o unilateralmente con el fin de alterar sus efectos normales."
+  },
+  {
+    "id": "61",
+    "rama": "DERECHO CIVIL",
+    "asignatura": "ACTO JURÍDICO",
+    "concepto": "NJ PRINCIPAL",
+    "definicion": "es el negocio que es capaz de subsistir por sí mismo, sin necesidad de otra convención (como una compraventa, un arrendamiento, un mutuo)"
+  },
+  {
+    "id": "62",
+    "rama": "DERECHO CIVIL",
+    "asignatura": "ACTO JURÍDICO",
+    "concepto": "NJ ACCESORIO",
+    "definicion": "es el negocio que tiene por objeto asegurar el cumplimiento de una obligación principal, de modo que no pueda subsistir extinguida ésta (como una hipoteca, una fianza, una prenda)\n · Nótese que los negocios accesorios pueden existir antes de la obligación principal, lo que no pueden hacer es subsistir (esto es, seguir existiendo) sin ellos. Esta anomalía lógica de la ley tiene una importante consecuencia práctica, pues permite la existencia –muy frecuente en la práctica bancaria- de las denominadas cláusulas de garantía general, en que se constituye primero la hipoteca, prenda o fianza, para garantizar las obligaciones que luego se contraigan entre las partes (Ver Art. 2413). Varas."
+  },
+  {
+    "id": "63",
+    "rama": "DERECHO CIVIL",
+    "asignatura": "ACTO JURÍDICO",
+    "concepto": "NJ DEPENDEINTES",
+    "definicion": "· los negocios dependientes, surge por la constatación de que existen negocios (escasísimos, pero existen) que, no pudiendo subsistir sin una obligación principal, no tienen sin embargo por finalidad asegurar su cumplimiento (y por lo mismo no pueden clasificarse como accesorios ni como principales). \n · Un ejemplo civil son las capitulaciones matrimoniales del artículo 1715; y otro el contrato de Aporte Financiero Reembolsable (Arts. 75 y 76 de la Ley General de Servicios Eléctricos)."
+  },
+  {
+    "id": "64",
+    "rama": "DERECHO CIVIL",
+    "asignatura": "ACTO JURÍDICO",
+    "concepto": "NJ TIPICOS O NOMINADOS",
+    "definicion": "Aquellos que pueden enmarcarse en alguno de los tipos dogmáticamente regulados. Varas."
+  },
+  {
+    "id": "65",
+    "rama": "DERECHO CIVIL",
+    "asignatura": "ACTO JURÍDICO",
+    "concepto": "REQUISITOS DE LOS NJ",
+    "definicion": "· Son las condiciones que el ordenamiento jurídico exige para reconocer existencia y fuerza jurídica a las manifestaciones de la autonomía individual en el campo del Derecho Privado. \n · Dicho de otra manera, los requisitos son la forma técnica mediante la que el ordenamiento jurídico (el Estado, en buenas cuentas) pone límites a la autonomía privada."
+  },
+  {
+    "id": "66",
+    "rama": "DERECHO CIVIL",
+    "asignatura": "ACTO JURÍDICO",
+    "concepto": "REQUISITOS DE VALIDEZ\n Art. 1445",
+    "definicion": "Son aquellos que dan una existencia sana al acto, exenta de vicios. Pueden faltar y acto existe de todos modos, pero lo hace en forma viciada.\n VOLUNTAD SIN VICIOS – OBJETO LÍCITO – CAUSA LÍCITA - CAPACIDAD"
+  },
+  {
+    "id": "67",
+    "rama": "DERECHO CIVIL",
+    "asignatura": "ACTO JURÍDICO",
+    "concepto": "REQUISITOS DE EXISTENCIA\n Art. 1445",
+    "definicion": "Son aquellos necesarios para que el acto exista. Cuando falta, el derecho niega el nacimiento del negocio jurídico. Sin estos requisitos el negocio no puede nacer a la vida del derecho, no puede formarse.\n VOLUNTAD – OBJETO – CAUSA – SOLEMNIDADES (cuando la ley lo exige)"
+  },
+  {
+    "id": "68",
+    "rama": "DERECHO CIVIL",
+    "asignatura": "ACTO JURÍDICO",
+    "concepto": "VOLUNTAD",
+    "definicion": "· El CC no lo define, pero lo señala como requisito de los NJ en el 1445.\n · Voluntad como potencia: entendida como la “aptitud para querer”\n · Voluntad como acto: Entendida como acto volitivo específico que admite o rehúye una cosa. (querer efectivo en concreto)"
+  },
+  {
+    "id": "69",
+    "rama": "DERECHO CIVIL",
+    "asignatura": "ACTO JURÍDICO",
+    "concepto": "CONSENTIMIENTO",
+    "definicion": "· Asentimiento que cada parte presta a la voluntad que expresa la otra, de manera recíproca en los negocios bilaterales\n · Constituido por la concurrencia de una oferta y aceptación, ambos negocios unilaterales. En la práctica, claro, el consentimiento puede darse de modos muy diversos; de modo casi instantáneo, o ser el fruto de muy prolongadas negociaciones, o cualquier punto intermedio. Esas diferencias empíricas no obstan para nada a su unidad esencial: siempre el consentimiento estará formado por la cópula de una oferta y una aceptación.\n · No fue regulado por el Código Civil, cuerpo legal que se limitó a exigirlo como requisito (Art. 1445). Esta significativa omisión legislativa fue salvada por el Código de Comercio (Arts 98 a 105 CCom), cuyas normas reciben aplicación, pese a ser especiales respecto de materias civiles generales."
+  },
+  {
+    "id": "70",
+    "rama": "DERECHO CIVIL",
+    "asignatura": "ACTO JURÍDICO",
+    "concepto": "SERIEDAD",
+    "definicion": "Existencia de una voluntad de obligarse en términos coactivos. La voluntad es seria cuando denota el propósito efectivo o firme de producir un resultado práctico amparado por el derecho"
+  },
+  {
+    "id": "71",
+    "rama": "DERECHO CIVIL",
+    "asignatura": "ACTO JURÍDICO",
+    "concepto": "OFERTA",
+    "definicion": "Negocio jurídico unilateral por medio del cual una parte propone a otra la celebración de una determinada convención, de modo tal que, aceptada pura y simplemente, quede perfecto el negocio. (Varas)"
+  },
+  {
+    "id": "72",
+    "rama": "DERECHO CIVIL",
+    "asignatura": "ACTO JURÍDICO",
+    "concepto": "OFERTA EXPRESA",
+    "definicion": "Efectuada en forma verbal o escrita, y que revela explícita y directamente el deseo de contratar"
+  },
+  {
+    "id": "73",
+    "rama": "DERECHO CIVIL",
+    "asignatura": "ACTO JURÍDICO",
+    "concepto": "OFERTA TÁCITA",
+    "definicion": "Cualquiera acción que inequívocamente, de acuerdo con los usos, tenga el efecto comunicativo de ser oferta"
+  },
+  {
+    "id": "74",
+    "rama": "DERECHO CIVIL",
+    "asignatura": "ACTO JURÍDICO",
+    "concepto": "ACEPTACIÓN",
+    "definicion": "Negocio jurídico unilateral por medio del cual la parte a quien fue dirigida una oferta (denominado, como se sabe, la destinataria) manifiesta su conformidad con ella."
+  },
+  {
+    "id": "75",
+    "rama": "DERECHO CIVIL",
+    "asignatura": "ACTO JURÍDICO",
+    "concepto": "RESERVA TÁCITA O “RESERVATIO MENTALIS”",
+    "definicion": "· Existe cuando la declarante reserva en secreto o en su mente su verdadera voluntad a sabiendas que lo declarado no responde a su intención. \n · Supone que el receptor desconoce la voluntad real.\n · Prevalece la voluntad declarada en razón de actos propios, que le son atribuibles a la declarante y que hacen que la voluntad interna pase a segundo plano. \n · Para que vicie el acto, la otra parte debe saber que la voluntad declarada no es la deseada, caso en el cual la voluntad carece de uno de sus elementos: la seriedad."
+  },
+  {
+    "id": "76",
+    "rama": "DERECHO CIVIL",
+    "asignatura": "ACTO JURÍDICO",
+    "concepto": "DECLARACIÓN IOCANDI CAUSA.",
+    "definicion": "Declaración en la que la falta de seriedad se manifiesta en forma evidente, como promesas irrealizables, frases corteses o jactanciosas, frases de broma, ejemplos de cátedra, etc. \n Puede producir efectos cuando la persona destinataria creyó en la declaración, habiendo esta sido hecha en forma negligente o dolosa, y la primera reportado daño a causa de ella."
+  },
+  {
+    "id": "77",
+    "rama": "DERECHO CIVIL",
+    "asignatura": "ACTO JURÍDICO",
+    "concepto": "SIMULACIÓN",
+    "definicion": "Es la declaración de voluntad no real, emitida de manera consciente y de acuerdo entre las partes, para producir con fines de engaño la apariencia de un acto jurídico que no existe o que es distinto de aquel que realmente se ha llevado a cabo."
+  },
+  {
+    "id": "78",
+    "rama": "DERECHO CIVIL",
+    "asignatura": "ACTO JURÍDICO",
+    "concepto": "ACCIÓN DE SIMULACIÓN",
+    "definicion": "Acción personal y declarativa ejercida por los terceros a quienes perjudica la simulación, con el objeto de que el juez declare cual ha sido la voluntad real; o por las partes frente al desconocimiento de la contraparte de la voluntad real."
+  },
+  {
+    "id": "79",
+    "rama": "DERECHO CIVIL",
+    "asignatura": "ACTO JURÍDICO",
+    "concepto": "ERROR",
+    "definicion": "· Ignorancia o falso concepto que se tiene de una cosa, hecho, persona o ley.\n · Jurídicamente, es error tanto si proviene de equivocación o de ignorancia."
+  },
+  {
+    "id": "80",
+    "rama": "DERECHO CIVIL",
+    "asignatura": "ACTO JURÍDICO",
+    "concepto": "ERROR DE DERECHO",
+    "definicion": "Existen varias hipótesis. \n − Se ignora la existencia de la ley. \n − Se cree existente una norma inexistente. \n − Se conoce la existencia de una norma, ignorándose el contenido. \n − Se conoce la existencia y el contenido de una norma, pero se desconoce su significado."
+  },
+  {
+    "id": "81",
+    "rama": "DERECHO CIVIL",
+    "asignatura": "ACTO JURÍDICO",
+    "concepto": "Error común\n (de derecho)",
+    "definicion": "Es una categoría especial de error que genera efectos cuando se trata de un error de derecho. Se trata de una hipótesis en que el error no lo padece una persona, sino un conjunto de personas.\n Los efectos del error común es que los actos serán validados, pero en el futuro esos actos serán nulos. Como ya se habrá advertido, el efecto del error común es exactamente el contrario al efecto del error individual, que vicia y anula un acto que sin él sería válido: Valida un acto que de otro modo sería nulo."
+  },
+  {
+    "id": "82",
+    "rama": "DERECHO CIVIL",
+    "asignatura": "ACTO JURÍDICO",
+    "concepto": "ERROR DE HECHO",
+    "definicion": "Consiste en la falsa representación que se tiene, por ignorancia o equivocación, de una cosa, hecho o persona.\n El Código chileno se aparta del Código francés y sigue las ideas de Pothier, distinguiendo tres clases de error, que son esencial, sustancial y accidental.\n de las cuales sólo las dos primeras vician el consentimiento y lo hacen anulable."
+  },
+  {
+    "id": "83",
+    "rama": "DERECHO CIVIL",
+    "asignatura": "ACTO JURÍDICO",
+    "concepto": "EL ERROR ESENCIAL, OBSTÁCULO, OBSTATIVO O IMPEDIENTE",
+    "definicion": "Es el error que impide el acuerdo o convergencia de voluntades, y por ello, impide la formación del consentimiento. Por eso se lo denomina error obstáculo. En consecuencia, técnicamente no constituye un vicio (no puede estar viciado algo que no existe). Lo consagra el artículo 1453, disposición tomada de Pothier, y que no existe en el Código francés.\n  \n SUPUESTOS DE ERROR ESENCIAL:\n a. Cuando se yerra sobre la especie o tipo de acto jurídico que se ejecuta o celebra (error in negotio) una parte cree que es AJ traslaticio de dominio (CV) y el otro cree que no lo es (arrendamiento). \n b. cuando se yerra acerca de la identidad de la cosa específica de que se trata (error in corpore).\n  b.1. cuando la equivocación versa sobre individuos de diverso género (caballo y burro)\n  b.2 cuando el yerro recae en dos individuos diversos del mismo género (la vaca “Margaret” y la vaca “Golda”)"
+  },
+  {
+    "id": "84",
+    "rama": "DERECHO CIVIL",
+    "asignatura": "ACTO JURÍDICO",
+    "concepto": "ERROR SUSTANCIAL",
+    "definicion": "Es aquel que recae “sobre la sustancia o calidad esencial” de la cosa sobre la que versa el acto jurídico (Artículo 1454). Además, se asimilan a esta clase de error ciertos errores accidentales y el error in persona, bajo determinadas condiciones.\n  \n SUPUESTOS DE ERROR SUSTANCIAL \n a. Error en la sustancia: Es la materia de la cual se compone la cosa: una barra de plata (ejemplo CC), aunque también podría ser el vino por el vinagre, seda por satín; margarina por mantequilla, etc. Se trata de un error excusable\n b. Error en la calidad esencial: Es una cualidad intrínseca distinta de la materia, o la aptitud de que la cosa cumpla un determinado fin. \n Criterio subjetivo: Calidad esencial es aquel atributo de la cosa que una de las partes, o ambas, han tenido primordialmente en vista para contratar. Es insuficiente\n Criterio objetivo: En cambio, mirado el punto desde un prisma objetivo, calidad esencial es aquel atributo que conforma una cosa, y sin lo cual deja de ser lo que es. \n Una cualidad esencial es la autenticidad, por ejemplo, en las obras de arte. La sustancia de la Mona Lisa es, básicamente, pintura y tela, pero la gracia de la Mona Lisa no es su sustancia, sino su cualidad intrínseca de autenticidad. Además, dentro de la calidad esencial, cabe que la cosa cumpla un determinado fin, como sería con una entrada a un partido. Sobre la aptitud, por ejemplo, al comprar un auto pensando que era un Lamborghini cuando en realidad era una adaptación.\n  \n c. Error accidental elevado a la categoría sustancial: es uno de los casos asimilados al error sustancial, para efectos de su sanción, y se contempla en el segundo inciso del artículo 1454. Se trata de equivocaciones sobre calidades no esenciales ni sustanciales, que, sin embargo, han sido el principal motivo o razón explicatoria de una de las partes para contratar, habiendo tenido la otra parte conocimiento de esa razón explicativa, lo cual es de incumbencia probatoria de quien alega el error. \n  \n d. Error en la persona asimilado al error sustancial. \n Se trata de la especie de error en la que la equivocación o ignorancia recae sobre la persona con quien se contrata, cada vez que la consideración de esa persona sea la causa principal del contrato. (Art. 1455 inciso 1º). \n El error puede recaer tanto sobre la identidad de la contraparte como sobre sus cualidades. (Es decir, tanto puede errarse creyendo contratar con Pedro Pérez cuando en verdad se contrata con Rodrigo Rodríguez; como creyendo contratar con Juan Pérez, artista del retrato al óleo, cuando se contrata realmente con el propio Juan Pérez, pero que es pintor profesional de brocha gorda).\n Como RG no vicia el consentimiento, excepto cuando la consideración de la persona es determinante en la celebración o ejecución del acto\n ¿Cuándo ocurre que la consideración de la persona es determinante? Se trata de una cuestión de prueba, ya que cualquier acto puede ser celebrado en consideración a la persona de la contraparte. Esto es facilitado por la presunción doctrinal y jurisprudencial en actos que son (generalmente) intuituo personae. \n  ***Los actos de familia tienen una presunción de celebración en consideración a la persona, como el matrimonio, el reconocimiento de un hijo o la adopción.\n  *Caso del matrimonio: Ley de Matrimonio Civil (2004) establece que falta el consentimiento libre y espontáneo cuando hay error sobre las calidades personales determinantes para otorgar el consentimiento.\n  *** Los negocios patrimoniales gratuitos se presumen intuituo personae.\n  *** Los onerosos se presume lo contrario."
+  },
+  {
+    "id": "85",
+    "rama": "DERECHO CIVIL",
+    "asignatura": "ACTO JURÍDICO",
+    "concepto": "ERROR ACCIDENTAL",
+    "definicion": "Este error se puede definir por exclusión, es aquel que no es ni esencial, ni sustancial y que no haya sido elevado a la categoría de sustancial por las partes ya sea acordándolo o declarándolo a la otra parte. Recae sobre una cualidad de la cosa que no ha sido tenida en cuenta por la parte como determinante en la formación del contrato, en cuyo caso no vicia el consentimiento. \n Ej: no se especificó el tamaño de las lentejas que se quería"
+  },
+  {
+    "id": "86",
+    "rama": "DERECHO CIVIL",
+    "asignatura": "ACTO JURÍDICO",
+    "concepto": "FUERZA",
+    "definicion": "Sin definición en el CC\n Se ha definido la fuerza como la presión o constreñimiento ejercido sobre la voluntad de un individuo mediante coacción física o mediante amenazas que le producen un temor de tal magnitud que le induce a obligarse. \n Hay que notar que, en estricta lógica, el verdadero vicio del consentimiento es el miedo o temor (efecto) y no la fuerza (causa)"
+  },
+  {
+    "id": "87",
+    "rama": "DERECHO CIVIL",
+    "asignatura": "ACTO JURÍDICO",
+    "concepto": "FUERZA MORAL",
+    "definicion": "La que se ejerce mediante la amenaza de un mal futuro."
+  },
+  {
+    "id": "88",
+    "rama": "DERECHO CIVIL",
+    "asignatura": "ACTO JURÍDICO",
+    "concepto": "FUERZA FÍSICA",
+    "definicion": "Maltrato o sufrimiento físico (corporal) actual. \n Sin embargo, hay que señalar que en este caso lo que induce a consentir no es el maltrato en sí, sino que el temor de que este sufrimiento se repita, por lo que también es un tipo de fuerza moral."
+  },
+  {
+    "id": "89",
+    "rama": "DERECHO CIVIL",
+    "asignatura": "ACTO JURÍDICO",
+    "concepto": "GRAVEDAD DE LA FUERZA\n (REQUISITO PARA QUE VICIE EL CONSENTIMIENTO)\n 1456",
+    "definicion": "El concepto se refiere a que la fuerza posea una entidad, magnitud o intensidad suficientes para efectivamente determinar la celebración de un acto que sin una tal presión no se hubiera efectuado. El criterio inicial que establece la ley consiste en que la fuerza, para viciar el consentimiento, debe ser capaz de producir una impresión fuerte.\n La idea de la impresión fuerte. La fuerza no es lo que vicia el consentimiento propiamente tal, sino que la impresión que causa la fuerza en una determinada persona."
+  },
+  {
+    "id": "90",
+    "rama": "DERECHO CIVIL",
+    "asignatura": "ACTO JURÍDICO",
+    "concepto": "ILEGÍTIMA\n (REQUISITO PARA QUE VICIE EL CONSENTIMIENTO)",
+    "definicion": "no está expresamente contemplado en el CC, pero la doctrina la ha considerado desde el Derecho romano como un requisito esencial para que la fuerza vicie el consentimiento.\n En general, consiste en la fuerza que es contraria a Derecho, es decir, que no representa una hipótesis legal de fuerza legítima (como el ejercicio de un derecho subjetivo). Hace referencia al ejercicio abusivo de los derechos, es decir, cuando se pretende agravar ilícitamente la condición del amenazado."
+  },
+  {
+    "id": "91",
+    "rama": "DERECHO CIVIL",
+    "asignatura": "ACTO JURÍDICO",
+    "concepto": "DETERMINANTE.\n (REQUISITO PARA QUE VICIE EL CONSENTIMIENTO)",
+    "definicion": "Debe haber sido realizada con el preciso y deliberado objeto de obtener el consentimiento, según el art. 1457 CC. Puede ser ejercida por cualquier persona, no es necesario que sea el contratante."
+  },
+  {
+    "id": "92",
+    "rama": "DERECHO CIVIL",
+    "asignatura": "ACTO JURÍDICO",
+    "concepto": "ESTADO DE PELIGRO",
+    "definicion": "Situación en la que se discute su integración al vicio de fuerza.\n Situación objetiva que de modo presente o inminente pone en riesgo o amenaza la vida o los bienes, propios o de un tercero"
+  },
+  {
+    "id": "93",
+    "rama": "DERECHO CIVIL",
+    "asignatura": "ACTO JURÍDICO",
+    "concepto": "ESTADO DE NECESIDAD.",
+    "definicion": "Situación en la que se discute su integración al vicio de fuerza.\n Situación en la que el sujeto afectado carece de los medios pecuniarios requeridos para resolver una situación que los exige necesariamente. (Varas)\n En el estado de necesidad nos encontramos ante una fuerza de carácter de grave y determinante pero no tiene el carácter de injusto, fundamentalmente, porque no es ejercida por una persona si no que deriva de las circunstancias o de la naturaleza\n **Caso del barco en la tormenta. Caso Rolf-Abeille: El aprovechamiento de las circunstancias externas en un estado de necesidad, es un vicio del consentimiento, incluso si la fuerza en sí misma no es injusta; alguien se está aprovechando de la situación de necesidad de una persona."
+  },
+  {
+    "id": "94",
+    "rama": "DERECHO CIVIL",
+    "asignatura": "ACTO JURÍDICO",
+    "concepto": "DOLO",
+    "definicion": "Según el art. 44 CC, es la intención positiva de inferir injuria a la persona o propiedad de otro. \n Como vicio del consentimiento se caracteriza por la presencia de maniobras engañosas empleadas con el propósito de inducir a error o a mantener en el error a una persona, a fin de determinarla a expresar su voluntad.\n Dolo bueno y malo: distinción del derecho romano y español que ha sido abandonada, ya que sólo se reconoce el malo (el bueno no es dolo)."
+  },
+  {
+    "id": "95",
+    "rama": "DERECHO CIVIL",
+    "asignatura": "ACTO JURÍDICO",
+    "concepto": "DOLO BUENO",
+    "definicion": "No es punible, y sólo hay sagacidad, astucia, precaución extremada o fines de propaganda, pero no intención de inferir injuria."
+  },
+  {
+    "id": "96",
+    "rama": "DERECHO CIVIL",
+    "asignatura": "ACTO JURÍDICO",
+    "concepto": "DOLO MALO",
+    "definicion": "Punible."
+  },
+  {
+    "id": "97",
+    "rama": "DERECHO CIVIL",
+    "asignatura": "ACTO JURÍDICO",
+    "concepto": "DOLO POSITIVO",
+    "definicion": "Consiste en actos o hechos."
+  },
+  {
+    "id": "98",
+    "rama": "DERECHO CIVIL",
+    "asignatura": "ACTO JURÍDICO",
+    "concepto": "DOLO NEGATIVO O RETICENCIA DOLOSA",
+    "definicion": "Consiste en guardar silencio, estando obligado por ley, por la costumbre o por las circunstancias del acto a decir algo."
+  },
+  {
+    "id": "99",
+    "rama": "DERECHO CIVIL",
+    "asignatura": "ACTO JURÍDICO",
+    "concepto": "DOLO PRINCIPAL, DETERMINANTE, INDUCTIVO O CAUSAL",
+    "definicion": "logra mover a una persona a contratar o celebrar el acto sobre el que la maniobra recae. Es decir, se trata de aquel dolo sin el cual el negocio no se hubiera celebrado en absoluto.\n Sancionado con nulidad relativa del acto o contrato en el que ha incidido, además de la indemnización de perjuicios por aquellos no cubiertos por los efectos de la declaración de nulidad."
+  },
+  {
+    "id": "100",
+    "rama": "DERECHO CIVIL",
+    "asignatura": "ACTO JURÍDICO",
+    "concepto": "DOLO INCIDENTAL",
+    "definicion": ": no determina directamente la celebración del acto, sin embargo, determina su conclusión en condiciones diversas (más onerosas) que aquellas en que se habría hecho de no mediar el dolo.\n indemnización de perjuicios."
+  },
+  {
+    "id": "101",
+    "rama": "DERECHO CIVIL",
+    "asignatura": "ACTO JURÍDICO",
+    "concepto": "LESIÓN",
+    "definicion": "es el perjuicio pecuniario que sufre una de las partes debido al desequilibrio entre las prestaciones recíprocamente estipuladas, por lo que sólo es aplicable a los contratos onerosos conmutativos (contratos en los que ambas partes se gravan la una en beneficio de la otra, y las prestaciones se miran como equivalentes). \n Discutible que en Chile sea un vicio del consentimiento, porque no hay una disposición legal que la consagre como hipótesis general con carácter subjetivo, sino que hay hipótesis particulares con carácter objetivo. En las legislaciones comparadas sí es un vicio del consentimiento."
+  },
+  {
+    "id": "102",
+    "rama": "DERECHO CIVIL",
+    "asignatura": "ACTO JURÍDICO",
+    "concepto": "CAPACIDAD",
+    "definicion": "aptitud legal de una persona para adquirir, gozar y hacer valer por sí misma un derecho en la vida jurídica."
+  },
+  {
+    "id": "103",
+    "rama": "DERECHO CIVIL",
+    "asignatura": "ACTO JURÍDICO",
+    "concepto": "CAPACIDAD DE GOCE",
+    "definicion": ". Es la aptitud legal de una persona para adquirir, gozar, ser titular o sujeto de un derecho. Es un atributo de la personalidad. El CC no la define. Todo individuo de la especie humana tiene la capacidad de goce."
+  },
+  {
+    "id": "104",
+    "rama": "DERECHO CIVIL",
+    "asignatura": "ACTO JURÍDICO",
+    "concepto": "CAPACIDAD DE EJERCICIO O DE OBRAR.",
+    "definicion": "Definida por el art. 1445 II CC como la capacidad de una persona de poder obligarse por sí misma, sin el ministerio o autorización de otro. Esta sí es un requisito de los negocios jurídicos. Mientras la capacidad de ejercicio supone la capacidad de goce, esta puede concebirse sin ella porque el titular de un derecho puede ser, según los casos, capaz o incapaz de hacerlos valer por sí mismos."
+  },
+  {
+    "id": "105",
+    "rama": "DERECHO CIVIL",
+    "asignatura": "ACTO JURÍDICO",
+    "concepto": "INCAPACIDAD ABSOLUTA.",
+    "definicion": "Incapacidad que se establece en razón de la ausencia completa de voluntad jurídicamente eficaz, ya sea por ausencia de verdadera voluntad o por imposibilidad de realizar un acto de lenguaje."
+  },
+  {
+    "id": "106",
+    "rama": "DERECHO CIVIL",
+    "asignatura": "ACTO JURÍDICO",
+    "concepto": "INCAPACIDAD RELATIVA.",
+    "definicion": "Falta de madurez de la voluntad, y no su ausencia total. Puede presentarse porque aún falte tiempo para la consolidación de la madurez o porque la madurez nunca se produjo."
+  },
+  {
+    "id": "107",
+    "rama": "DERECHO CIVIL",
+    "asignatura": "ACTO JURÍDICO",
+    "concepto": "MENOR ADULTO",
+    "definicion": "según el art. 26 CC son personas que han dejado de ser impúberes pero que no han cumplido aún 18 años."
+  },
+  {
+    "id": "108",
+    "rama": "DERECHO CIVIL",
+    "asignatura": "ACTO JURÍDICO",
+    "concepto": "DISIPADOR",
+    "definicion": "Persona que dilapida sus bienes de manera inmoderada, manifestando una completa falta de prudencia, situación que habilita jurídicamente a solicitar la interdicción."
+  },
+  {
+    "id": "109",
+    "rama": "DERECHO CIVIL",
+    "asignatura": "ACTO JURÍDICO",
+    "concepto": "OBJETO",
+    "definicion": "El art. 1460 CC lo define como una o más cosas que se trata de dar, hacer o no hacer, es decir, define el objeto del negocio como las prestaciones (adscribe a la postura clásica francesa)\n Problema: \n 1. Confunde el objeto del negocio jurídico con el objeto propiamente tal de la obligación. \n 2. Sólo los negocios contractuales generan obligaciones, por lo que este concepto no puede tener aplicación en todos los negocios jurídicos. (a los que modifican o extinguen obligaciones)"
+  },
+  {
+    "id": "110",
+    "rama": "DERECHO CIVIL",
+    "asignatura": "ACTO JURÍDICO",
+    "concepto": "OBJETO \n (Tesis mayoritaria y moderna)",
+    "definicion": "El objeto del negocio es:\n a) la materia, bienes, utilidades o relaciones que las partes someten a su voluntad; \n b) En los NJ patrimoniales se identifica el objeto con los derechos y obligaciones que el negocio crea, modifica o extingue.\n Es el motivo por el cual se realiza el negocio jurídico, es el aspecto material y externo, es decir, sobre lo que versa el acto de lenguaje."
+  },
+  {
+    "id": "111",
+    "rama": "DERECHO CIVIL",
+    "asignatura": "ACTO JURÍDICO",
+    "concepto": "OBJETO ILÍCITO",
+    "definicion": "· Aquel que se encuentra incluido en el catálogo legal de tipificación de objetos ilícitos. Dado el reconocimiento a la autonomía privada, los particulares pueden pactar todo aquello que no está directa o implícitamente prohibido. (Varas)\n · el que versa sobre cosas incomerciables o ilícitas, o sobre hechos o contratos prohibidos por las leyes o; sobre hechos contrarios a las buenas costumbres o al orden público"
+  },
+  {
+    "id": "112",
+    "rama": "DERECHO CIVIL",
+    "asignatura": "ACTO JURÍDICO",
+    "concepto": "CAUSA",
+    "definicion": "· Requisito de validez y de existencia según el 1445 n°4.\n · Motivo que induce al acto o contrato (1467 inc.2) Por ejemplo, la promesa de dar algo en pago de una deuda que no existe, carece de causa.\n · Es un concepto extremadamente equívoco, debido a que puede hacer referencia a la causa eficiente (elemento generador del efecto), la causa formal (hace que una cosa sea formalmente lo que es), la causa final y la causa motiva."
+  },
+  {
+    "id": "113",
+    "rama": "DERECHO CIVIL",
+    "asignatura": "ACTO JURÍDICO",
+    "concepto": "CAUSA EFICIENTE",
+    "definicion": "Es la fuente jurídica de la que emana la obligación, es decir, el antecedente del acto. Esta noción debe descartarse como noción jurídica, ya que la causa es un requisito de existencia y de validez, y de aceptar esta noción resultaría que el NJ sería la causa misma."
+  },
+  {
+    "id": "114",
+    "rama": "DERECHO CIVIL",
+    "asignatura": "ACTO JURÍDICO",
+    "concepto": "CAUSA IMPULSIVA, MOTIVO O MÓVIL\n ¿por qué me obligué?",
+    "definicion": "Es el fin remoto, variable, personalísimo y psicológico que lleva a una persona a celebrar un AJ. Es el motivo explicativo del acto, por ejemplo, querer el dinero por parte de la vendedora."
+  },
+  {
+    "id": "115",
+    "rama": "DERECHO CIVIL",
+    "asignatura": "ACTO JURÍDICO",
+    "concepto": "CAUSA FINAL\n ¿por qué debo?",
+    "definicion": "Fin próximo, inmediato e invariable que la parte se propone alcanzar mediante la celebración de un AJ y que siempre se puede encontrar en su estructura. Esta causa final es idéntica para todos los actos o contratos de una misma especie, no varía de individuo a individuo."
+  },
+  {
+    "id": "116",
+    "rama": "DERECHO CIVIL",
+    "asignatura": "ACTO JURÍDICO",
+    "concepto": "CAUSA ILÍCITA",
+    "definicion": "la prohibida por la ley o contraria a las buenas costumbres o al orden público, como dar algo en recompensa de un crimen o de un hecho inmoral"
+  },
+  {
+    "id": "117",
+    "rama": "DERECHO CIVIL",
+    "asignatura": "ACTO JURÍDICO",
+    "concepto": "SOLEMNIDADES\n (ESPECIE)",
+    "definicion": "· Éstas son una clase de formalidades, de modo que entre formalidades y solemnidades se da una relación de género a especie.\n · Tipo específico de formalidades que constituye requisito de ciertos negocios jurídicos\n · medios de exteriorización de la voluntad de una manera predeterminada u concreta exigida por la ley, de modo que la única manera de manifestarla válidamente es mediante la forma prescrita, y con la radical consecuencia legal de la ausencia de todo efecto para el caso de su omisión"
+  },
+  {
+    "id": "118",
+    "rama": "DERECHO CIVIL",
+    "asignatura": "ACTO JURÍDICO",
+    "concepto": "FORMALIDAD\n (GÉNERO)",
+    "definicion": "En general, es cualquier adición externa o exterior de los actos jurídicos, impuesta por la ley o determinada por la autonomía privada."
+  },
+  {
+    "id": "119",
+    "rama": "DERECHO CIVIL",
+    "asignatura": "ACTO JURÍDICO",
+    "concepto": "INEFICACIA",
+    "definicion": "conjunto de todos los casos en que el negocio jurídico no produce la totalidad de los efectos queridos. Ocurre cada vez que el negocio no produce efectos, o los produce parcial, efímera o caducamente, lo que puede ocurrir por variadas razones."
+  },
+  {
+    "id": "120",
+    "rama": "DERECHO CIVIL",
+    "asignatura": "ACTO JURÍDICO",
+    "concepto": "INVALIDEZ",
+    "definicion": "es un caso especial de ineficacia del negocio jurídico cuando faltan los requisitos exigidos por ley."
+  },
+  {
+    "id": "121",
+    "rama": "DERECHO CIVIL",
+    "asignatura": "ACTO JURÍDICO",
+    "concepto": "INEXISTENCIA",
+    "definicion": "se define como la consecuencia (no sanción) que produce la ausencia de alguno de los requisitos de existencia del negocio jurídico (consentimiento, objeto, causa, solemnidades), o la falta de otros elementos esencial de un negocio determinado (como la gratuidad en el comodato)"
+  },
+  {
+    "id": "122",
+    "rama": "DERECHO CIVIL",
+    "asignatura": "ACTO JURÍDICO",
+    "concepto": "NULIDAD",
+    "definicion": "· sanción establecida por ley para casos de omisión de requisitos y formalidades prescritas para el valor de un negocio, según su especie o según la calidad y estado de las partes, y que consiste en la privación de efectos del negocio. \n · En consecuencia, siempre es una tara originaria del negocio, es una sanción por transgresión de límites legales que importa la privación de efectos del negocio.\n · Absoluta y relativa/total y parcial."
+  },
+  {
+    "id": "123",
+    "rama": "DERECHO CIVIL",
+    "asignatura": "ACTO JURÍDICO",
+    "concepto": "NULIDAD ABSOLUTA",
+    "definicion": "· Sanción dispuesta por la ley para negocios jurídicos en que se hayan omitido requisitos exigidos en consideración a su naturaleza, y no al estado o calidad de las partes que intervienen, y que consiste en la privación de efectos para tales negocios.\n · Este acto está viciado en sí mismo, objetivamente, por lo que su nulidad existe respecto de todos, con alcance ilimitado (erga omnes)"
+  },
+  {
+    "id": "124",
+    "rama": "DERECHO CIVIL",
+    "asignatura": "ACTO JURÍDICO",
+    "concepto": "NULIDAD RELATIVA O RESCISIÓN",
+    "definicion": "· Sanción prevista por la ley para los negocios jurídicos en los que se han omitido requisitos establecidos en consideración al estado o calidad de las personas que lo ejecutan o celebran, y que consiste en la ineficacia o privación de sus efectos.\n · (regla general según el art. 1682 CC) establecida en consideración del estado o calidad de las partes.\n · Este acto presenta un vicio no consustancial con su naturaleza, sino a la omisión de un requisito exigido en consideración a las personas, por lo que es subjetivo, y sólo existe respecto de determinadas personas (alcance limitado o relativo)."
+  },
+  {
+    "id": "125",
+    "rama": "DERECHO CIVIL",
+    "asignatura": "ACTO JURÍDICO",
+    "concepto": "NULIDAD CONSECUENCIAL",
+    "definicion": "Se produce como consecuencia de la declaración de nulidad de otro negocio del cual el primero es accesorio, por aplicación del principio de accesoriedad (lo accesorio sigue la suerte de lo principal). \n Sin embargo, lo contrario nunca ocurre, debido a que la nulidad de un negocio accesorio no afecta la validez del principal. Pueden encontrarse en la hipoteca (art. 2434 CC), en la fianza (art. 2381 Nº3 CC) o respecto de la cláusula penal (art. 1536 I CC)."
+  },
+  {
+    "id": "126",
+    "rama": "DERECHO CIVIL",
+    "asignatura": "ACTO JURÍDICO",
+    "concepto": "NULIDAD REFLEJA",
+    "definicion": "se produce como consecuencia de la nulidad del continente formal del negocio. Esto ocurre principalmente en los actos solemnes, y normalmente respecto de la escritura pública (tiene una prolija regulación legal). En el caso que el negocio pueda subsistir sin el continente formal (si no es un negocio solemne), puede aplicarse el principio de conservación y evitar la nulidad refleja."
+  },
+  {
+    "id": "127",
+    "rama": "DERECHO CIVIL",
+    "asignatura": "ACTO JURÍDICO",
+    "concepto": "CONFIRMACIÓN DEL ACTO NULO (RELATIVO)",
+    "definicion": "Es un AJ unilateral mediante el cual el acto jurídico viciado de la nulidad relativa es saneado por la parte que tiene derecho a demandarla, renunciando a la acción.\n · Unilateral\n · Accesorio, en particular, dependiente porque no puede subsistir sin el acto o contrato que confirma.\n · Irrevocable\n · Opera con efecto retroactivo"
+  },
+  {
+    "id": "128",
+    "rama": "DERECHO CIVIL",
+    "asignatura": "ACTO JURÍDICO",
+    "concepto": "PRINCIPIO DE CONSERVACIÓN DEL ACTO NULO",
+    "definicion": "Principio que se refiere a cuando, declarada la nulidad de un negocio, este es capaz de subsistir como otro diverso. Es decir, la manifestación de la voluntad del negocio nulo es igualmente válida para otro tipo de negocio, se funda en el principio de conservación del negocio jurídico. La legislación chilena carece de regulación al respecto, pero la doctrina afirma que para que se produzca no hace falta un acuerdo entre partes, sino que por el solo ministerio de la ley, y el juez solo se limita a declarar su concurrencia."
+  },
+  {
+    "id": "129",
+    "rama": "DERECHO CIVIL",
+    "asignatura": "ACTO JURÍDICO",
+    "concepto": "INOPONIBLIDAD",
+    "definicion": "Inoponibilidad como la ineficacia respecto de terceros.\n El contrato no producirá efectos respecto de ciertas personas que no son las partes contratantes, porque no se han cumplido ciertos requisitos de forma o de fondo en materia de oponibilidad.\n · no presenta nunca efectos entre las partes, sino que siempre respecto de terceros.\n · La nulidad generalmente es de orden público, irrenunciable, y puede ser declarada de oficio en ciertos ca"
+  },
+  {
+    "id": "130",
+    "rama": "DERECHO CIVIL",
+    "asignatura": "ACTO JURÍDICO",
+    "concepto": "MODALIDADES",
+    "definicion": "Son elementos (accidentales) incorporados por las partes o por la ley en un determinado negocio jurídico, con el fin de alterar los efectos normales de este negocio jurídico. Existen, fundamentalmente, tres tipos de modalidades clásicas: la condición, el plazo y el modo. \n Con el tiempo se han incorporado varias otras, como la solidaridad, la indivisibilidad, entre otras, pero la más importante es la representación (su estudio corresponde a la teoría del negocio jurídico). Las modalidades son siempre elementos de excepción: son siempre elementos accidentales y siempre resultan legalmente posibles en los negocios patrimoniales y nunca en los de familia."
+  },
+  {
+    "id": "131",
+    "rama": "DERECHO CIVIL",
+    "asignatura": "ACTO JURÍDICO",
+    "concepto": "CONDICIÓN",
+    "definicion": "se define como el acontecimiento futuro e incierto del que depende el nacimiento o la extinción de un derecho. En estos casos el negocio existe, y lo que depende de la condición es su eficacia"
+  },
+  {
+    "id": "132",
+    "rama": "DERECHO CIVIL",
+    "asignatura": "ACTO JURÍDICO",
+    "concepto": "PLAZO",
+    "definicion": "A partir de los arts. 1494 I y 1080 CC se entiende como aquel hecho futuro y cierto del que depende la exigibilidad o extinción de un derecho.\n Puede ser suspensivo o resolutorio."
+  },
+  {
+    "id": "133",
+    "rama": "DERECHO CIVIL",
+    "asignatura": "ACTO JURÍDICO",
+    "concepto": "MODO",
+    "definicion": "A partir del art. 1089 CC, se entiende que es el fin especial al que debe aplicarse el objeto que se asigna por medio del negocio jurídico, el límite del alcance económico de la libertad o la carga impuesta al beneficiario de una liberalidad. Su campo primordial de aplicación es la sucesión por causa de muerte y los negocios gratuitos."
+  },
+  {
+    "id": "134",
+    "rama": "DERECHO CIVIL",
+    "asignatura": "ACTO JURÍDICO",
+    "concepto": "REPRESENTACIÓN",
+    "definicion": "fenómeno jurídico en virtud del cual los efectos de un negocio que celebra una persona que actúa en lugar y a nombre de otra, con suficiente poder legal o convencional para ello, se radican de forma inmediata y directa en esta última como si hubiera obrado personalmente (art. 1448 CC)."
   }
-}
+]

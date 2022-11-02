@@ -1,46 +1,64 @@
+const API_URL =
+  'https://sheet.best/api/sheets/4b800725-403b-432f-852a-e1ae08750dfc'
+
+const JSON_PATH = './data.json'
+
 const $$ = (e) => document.querySelectorAll(e)
 
 const rand = (size) => Math.floor(Math.random() * size)
 
-const getData = () => {
-  return fetch('./data.json')
+;(() => {
+  fetch(JSON_PATH)
+    .then((data) => data.json())
+    .then((json) => sessionStorage.setItem('dataSize', json.length))
+})()
+
+const dataSize = sessionStorage.getItem('dataSize')
+
+const getRandomQuestion = () => {
+  return fetch(JSON_PATH)
     .then((res) => res.json())
+    .then((json) => json[rand(dataSize)])
     .catch((err) => console.log(err))
 }
 
-$$('.gen-preg')[0].addEventListener('click', async () => {
-  const data = await getData()
-  let areasKeys = Object.keys(data)
-  let area = areasKeys[rand(areasKeys.length)]
+const getAnswers = (concepto) => {
+  return fetch(JSON_PATH)
+    .then((res) => res.json())
+    .then((json) => json.filter((e) => e['concepto'] === concepto))
+}
 
-  let ramos = data[area]
-  let ramosKeys = Object.keys(ramos)
-  let ramo = ramosKeys[rand(ramosKeys.length)]
+$$('#gen-preg')[0].addEventListener('click', async () => {
+  getRandomQuestion().then((data) => {
+    let { rama, asignatura, concepto } = data
+    sessionStorage.setItem('concepto', concepto)
 
-  let preguntas = ramos[ramo]
-  let preguntasKeys = Object.keys(preguntas)
-  let pregunta = preguntasKeys[rand(preguntasKeys.length)]
-  let respuesta = preguntas[pregunta].map((e) => e.replaceAll('\n', '<br>'))
+    $$('div>ul')[0].innerHTML = ''
 
-  let preg = document.createElement('li')
-  preg.classList.add('list-group-item', 'list-group-item-primary')
-  preg.textContent = pregunta
-
-  sessionStorage.setItem('respuesta', JSON.stringify(respuesta))
-
-  $$('div>ul')[0].innerHTML = ''
-  $$('div>ul')[0].append(preg)
+    let preg = document.createElement('li')
+    preg.classList.add('list-group-item', 'list-group-item-primary')
+    let area = document.createElement('small')
+    area.style.fontSize = '0.55em'
+    let definicion = document.createElement('h3')
+    area.innerHTML = rama + ' - ' + asignatura
+    definicion.innerHTML = concepto.replaceAll('\n', '<br>')
+    preg.append(area, definicion)
+    $$('div>ul')[0].append(preg)
+  })
 })
 
-$$('.gen-res')[0].addEventListener('click', () => {
-  let respuesta = JSON.parse(sessionStorage.getItem('respuesta'))
-  if (!respuesta) return
-  sessionStorage.clear()
+$$('#gen-res')[0].addEventListener('click', () => {
+  let concepto = sessionStorage.getItem('concepto')
+  if (!concepto) return
+  sessionStorage.removeItem('concepto')
 
-  respuesta.forEach((e) => {
-    let res = document.createElement('li')
-    res.classList.add('list-group-item', 'list-group-item-success')
-    res.innerHTML = e
-    $$('div>ul')[0].append(res)
+  getAnswers(concepto).then((data) => {
+    data.forEach((e) => {
+      let definicion = e['definicion']
+      let res = document.createElement('li')
+      res.classList.add('list-group-item', 'list-group-item-success')
+      res.innerHTML = definicion.replaceAll('\n', '<br>')
+      $$('div>ul')[0].append(res)
+    })
   })
 })
