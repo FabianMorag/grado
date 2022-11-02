@@ -3,7 +3,7 @@ const API_URL =
 
 const JSON_PATH = './data.json'
 
-const $$ = (e) => document.querySelectorAll(e)
+const $ = (e) => document.querySelectorAll(e)
 
 const rand = (size) => Math.floor(Math.random() * size)
 
@@ -28,12 +28,23 @@ const getAnswers = (concepto) => {
     .then((json) => json.filter((e) => e['concepto'] === concepto))
 }
 
-$$('#gen-preg')[0].addEventListener('click', async () => {
+const getAllQuestions = () => {
+  return fetch(JSON_PATH)
+    .then((res) => res.json())
+    .then((json) => json)
+}
+
+const div = document.createElement('div')
+div.setAttribute('class', 'accordion accordion-flush')
+document.body.append(div)
+
+$('#gen-preg')[0].addEventListener('click', async () => {
   getRandomQuestion().then((data) => {
+    $('div>ul')[0].innerHTML = ''
+    div.innerHTML = ''
+
     let { rama, asignatura, concepto } = data
     sessionStorage.setItem('concepto', concepto)
-
-    $$('div>ul')[0].innerHTML = ''
 
     let preg = document.createElement('li')
     preg.classList.add('list-group-item', 'list-group-item-primary')
@@ -43,11 +54,11 @@ $$('#gen-preg')[0].addEventListener('click', async () => {
     area.innerHTML = rama + ' - ' + asignatura
     definicion.innerHTML = concepto.replaceAll('\n', '<br>')
     preg.append(area, definicion)
-    $$('div>ul')[0].append(preg)
+    $('div>ul')[0].append(preg)
   })
 })
 
-$$('#gen-res')[0].addEventListener('click', () => {
+$('#gen-res')[0].addEventListener('click', () => {
   let concepto = sessionStorage.getItem('concepto')
   if (!concepto) return
   sessionStorage.removeItem('concepto')
@@ -58,7 +69,50 @@ $$('#gen-res')[0].addEventListener('click', () => {
       let res = document.createElement('li')
       res.classList.add('list-group-item', 'list-group-item-success')
       res.innerHTML = definicion.replaceAll('\n', '<br>')
-      $$('div>ul')[0].append(res)
+      $('div>ul')[0].append(res)
     })
   })
 })
+
+$('#gen-todas')[0].addEventListener('click', () => {
+  $('div>ul')[0].innerHTML = ''
+
+  div.setAttribute('id', 'accordionFlushExample')
+  getAllQuestions().then((data) => {
+    data.forEach((e) => div.append(createCollapsable(e)))
+  })
+})
+
+const createCollapsable = (item) => {
+  let { id, concepto, definicion } = item
+
+  let divItem = document.createElement('div')
+  divItem.setAttribute('class', 'accordion-item')
+
+  let header = document.createElement('h2')
+  header.setAttribute('class', 'accordion-header')
+  let button = document.createElement('button')
+  button.setAttribute('class', 'accordion-button collapsed')
+  button.setAttribute('id', 'flush-heading' + id)
+  button.setAttribute('type', 'button')
+  button.setAttribute('data-bs-toggle', 'collapse')
+  button.setAttribute('data-bs-target', '#flush-collapse' + id)
+  button.setAttribute('aria-expanded', 'false')
+  button.setAttribute('aria-controls', 'flush-collapse' + id)
+  button.textContent = concepto
+  header.append(button)
+  divItem.append(header)
+
+  let collapse = document.createElement('div')
+  collapse.setAttribute('class', 'accordion-collapse collapse')
+  collapse.setAttribute('id', 'flush-collapse' + id)
+  collapse.setAttribute('aria-labelledby', 'flush-heading' + id)
+  collapse.setAttribute('data-bs-parent', '#accordionFlushExample')
+  let body = document.createElement('div')
+  body.setAttribute('class', 'accordion-body')
+  body.textContent = definicion
+  collapse.append(body)
+  divItem.append(collapse)
+
+  return divItem
+}
