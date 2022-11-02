@@ -102,6 +102,7 @@ $('#gen-res')[0].addEventListener('click', () => {
 
 $('#gen-todas')[0].addEventListener('click', () => {
   $('div>ul')[0].innerHTML = ''
+  sessionStorage.removeItem('concepto')
   if (div.innerHTML !== '') return
 
   div.setAttribute('id', 'accordionFlushExample')
