@@ -76,6 +76,7 @@ $('#gen-preg')[0].addEventListener('click', async () => {
     let preg = document.createElement('li')
     preg.classList.add('list-group-item', 'list-group-item-primary')
     let area = document.createElement('small')
+    area.setAttribute('class', 'area')
     let definicion = document.createElement('h3')
     area.textContent = rama + ' - ' + asignatura
     definicion.innerHTML = concepto.replaceAll('\n', '<br>')
