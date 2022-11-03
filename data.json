@@ -936,5 +936,460 @@
     "asignatura": "ACTO JURÍDICO",
     "concepto": "REPRESENTACIÓN",
     "definicion": "fenómeno jurídico en virtud del cual los efectos de un negocio que celebra una persona que actúa en lugar y a nombre de otra, con suficiente poder legal o convencional para ello, se radican de forma inmediata y directa en esta última como si hubiera obrado personalmente (art. 1448 CC)."
+  },
+  {
+    "id": "135",
+    "rama": "DERECHO CIVIL",
+    "asignatura": "BIENES",
+    "concepto": "DERECHO DE BIENES",
+    "definicion": "Según Peñailillo, es la materia relativa a los derechos reales que fija o radica bienes en el patrimonio de cada persona.\n · a. Fija o radica bienes en el patrimonio de cada persona (regulando los procesos o mecanismos para que se produzca esa radicación). Nos dice que indica cosas le pertenecen a alguien. En consecuencia, lo que tiene que hacer el derecho de bienes en esta fase es responder a la pregunta cómo podemos ser propietario de algún bien. Así, regula un mecanismo, en virtud del cual, el ordenamiento reconoce dicha titularidad.\n · b. Determina los poderes o facultades que las personas tienen sobre los bienes. Esto lo realiza describiendo estos poderes y estipulando cómo se ejercitan."
+  },
+  {
+    "id": "136",
+    "rama": "DERECHO CIVIL",
+    "asignatura": "BIENES",
+    "concepto": "COSA",
+    "definicion": "Es todo aquello que no es sujeto de derecho, sea que tenga existencia corporal o puramente espiritual, sea real o abstracta, sea natural o artificial. Es todo lo que ocupa un lugar en el espacio, es decir, que tenga una corporeidad sensible.\n · Es importante saber que para el CC cosa es sinónimo de bien, prefiriendo la primera expresión por sobre la segunda."
+  },
+  {
+    "id": "137",
+    "rama": "DERECHO CIVIL",
+    "asignatura": "BIENES",
+    "concepto": "BIEN",
+    "definicion": "cosas que son susceptibles de apropiación, respecto de las cuales puede predicarse un derecho de propiedad."
+  },
+  {
+    "id": "138",
+    "rama": "DERECHO CIVIL",
+    "asignatura": "BIENES",
+    "concepto": "OBJETO DE DERECHO",
+    "definicion": "todo aquello a lo que puede válidamente referirse una convención privada (sobre lo cual podemos pactar). Esta distinción es importante ya que no sólo podemos pactar sobre objetos, sino también sobre hechos y abstenciones"
+  },
+  {
+    "id": "139",
+    "rama": "DERECHO CIVIL",
+    "asignatura": "BIENES",
+    "concepto": "BIENES CORPORALES",
+    "definicion": "tienen un ser real y son susceptibles de percepción mediante los sentidos (al menos con uno)."
+  },
+  {
+    "id": "140",
+    "rama": "DERECHO CIVIL",
+    "asignatura": "BIENES",
+    "concepto": "BIENES INCORPORALES",
+    "definicion": "bienes que sólo pueden ser percibidos por el intelecto, porque carecen de existencia física.\n El derecho sólo transforma en bienes a los derechos subjetivos. \n Art. 576. Los bienes incorporales son derechos reales o personales."
+  },
+  {
+    "id": "141",
+    "rama": "DERECHO CIVIL",
+    "asignatura": "BIENES",
+    "concepto": "DERECHOS REALES",
+    "definicion": "Art. 577. Derecho real es el que tenemos sobre una cosa sin respecto a determinada persona.\n  Son derechos reales el de dominio, el de herencia, los de usufructo, uso o habitación, los de servidumbres activas, el de prenda y el de hipoteca. De estos derechos nacen las acciones reales. (la enumeración no es necesariamente taxativa, sino enunciativa)\n Crítica: La doctrina moderna es escéptica respecto de esta definición, ya que plantea que sólo hay relaciones jurídicas entre sujetos de derecho (es impropio concebir relaciones entre personas y cosas). En consecuencia, en estos casos hay una relación entre un sujeto activo determinada con una sujeta pasiva indeterminada y universal De esta manera, la titular tiene el derecho de que se respete por todos el ejercicio de sus facultades sobre la cosa, y todos los demás tienen la obligación de ese respeto, absteniéndose de perturbarlo."
+  },
+  {
+    "id": "142",
+    "rama": "DERECHO CIVIL",
+    "asignatura": "BIENES",
+    "concepto": "DERECHO REAL DE GOCE",
+    "definicion": "Permiten el aprovechamiento directo, total o parcial, del bien de que se trata. Este es el caso del derecho de dominio (aprovechamiento total o absoluto) y los otros limitativos del dominio (aprovechamiento parcial), como el usufructo, el uso, la habitación y la servidumbre6 ."
+  },
+  {
+    "id": "143",
+    "rama": "DERECHO CIVIL",
+    "asignatura": "BIENES",
+    "concepto": "DERECHO REAL DE GARANTÍA",
+    "definicion": "Permiten una utilidad indirecta a la titular, que es financiero patrimonial, al asegurar el cumplimiento de una obligación. Permiten usar indirectamente la cosa por su valor de cambio, como la prenda y la hipoteca"
+  },
+  {
+    "id": "144",
+    "rama": "DERECHO CIVIL",
+    "asignatura": "BIENES",
+    "concepto": "DERECHOS PRINCIPALES",
+    "definicion": "aquello que subsiste por sí mismo sin necesidad de otra cosa principal. Por ejemplo: el uso, usufructo, censo y servidumbres."
+  },
+  {
+    "id": "145",
+    "rama": "DERECHO CIVIL",
+    "asignatura": "BIENES",
+    "concepto": "DERECHOS ACCESORIOS",
+    "definicion": "Aquellos que están establecidos como garantía para el cumplimiento de una obligación principal. Por ejemplo, la prenda y la hipoteca."
+  },
+  {
+    "id": "146",
+    "rama": "DERECHO CIVIL",
+    "asignatura": "BIENES",
+    "concepto": "DERECHOS PERSONALES",
+    "definicion": "Art. 578. Derechos personales o créditos son los que sólo pueden reclamarse de ciertas personas, que, por un hecho suyo o la sola disposición de la ley, han contraído las obligaciones correlativas; como el que tiene el prestamista contra su deudor por el dinero prestado, o el hijo contra el padre por alimentos. De estos derechos nacen las acciones personales."
+  },
+  {
+    "id": "147",
+    "rama": "DERECHO CIVIL",
+    "asignatura": "BIENES",
+    "concepto": "DOCTRINA DE LA COSIFICACIÓN DE LOS DERECHOS",
+    "definicion": "Fue consagrada en el diseño original del CC, en el art. 583 CC. Consiste en afirmar un derecho de propiedad sobre los derechos, ya que el ordenamiento los define como “cosas incorporales sobre las que recae una especie de propiedad”, lo que ha provocado un intenso fortalecimiento de ellos. Esta disposición supone, en otras palabras, afirmar que somos dueños de nuestros derechos. Al alero de esta disposición han surgido diversas discusiones doctrinales a propósito del tratamiento de la propiedad como un metaderecho."
+  },
+  {
+    "id": "148",
+    "rama": "DERECHO CIVIL",
+    "asignatura": "BIENES",
+    "concepto": "BIENES MUEBLES",
+    "definicion": "Art. 567: Muebles son las que pueden transportarse de un lugar a otro, sea moviéndose ellas a sí mismas, como los animales (que por eso se llaman semovientes), sea que sólo se muevan por una fuerza externa, como las cosas inanimadas.\n Exceptúanse las que siendo muebles por naturaleza se reputan inmuebles por su destino, según el artículo 570."
+  },
+  {
+    "id": "149",
+    "rama": "DERECHO CIVIL",
+    "asignatura": "BIENES",
+    "concepto": "BIENES INMUEBLES",
+    "definicion": "Art. 568: Inmuebles o fincas o bienes raíces son las cosas que no pueden transportarse de un lugar a otro; como las tierras y minas, y las que adhieren permanentemente a ellas, como los edificios, los árboles.\n Las casas y heredades se llaman predios o fundos."
+  },
+  {
+    "id": "150",
+    "rama": "DERECHO CIVIL",
+    "asignatura": "BIENES",
+    "concepto": "INANIMADOS",
+    "definicion": ". Son aquellos que pueden transportarse de un lugar a otro solo mediante la fuerza externa."
+  },
+  {
+    "id": "151",
+    "rama": "DERECHO CIVIL",
+    "asignatura": "BIENES",
+    "concepto": "SEMOVIENTES",
+    "definicion": "Son aquellos que pueden transportarse de un lugar a otro, moviéndose por sí mismas, como los animales"
+  },
+  {
+    "id": "152",
+    "rama": "DERECHO CIVIL",
+    "asignatura": "BIENES",
+    "concepto": "POR ANTICIPACIÓN (ART. 571 CC).",
+    "definicion": "Son bienes inmuebles que se reputan muebles para efectos de constituir derechos sobre ellos en favor de otra persona diferente del dueño, antes de su separación del inmueble."
+  },
+  {
+    "id": "153",
+    "rama": "DERECHO CIVIL",
+    "asignatura": "BIENES",
+    "concepto": "BIENES POR NATURALEZA O BIENES RAÍCES:",
+    "definicion": "son las cosas que no pueden transportarse de un lugar a otro, como las tierras, minas o el suelo."
+  },
+  {
+    "id": "154",
+    "rama": "DERECHO CIVIL",
+    "asignatura": "BIENES",
+    "concepto": "INMUEBLES POR ADHERENCIA\n (ARTS. 569 Y 572 CC)",
+    "definicion": "Del art. 568 se desprende que son ciertos bienes que, siendo muebles, se reputan inmuebles por estar adheridos permanentemente a un inmueble. Y con esto se concluye que es necesario que el bien esté adherido al inmueble, según el tenor del art. 568, y que la adherencia sea permanente."
+  },
+  {
+    "id": "155",
+    "rama": "DERECHO CIVIL",
+    "asignatura": "BIENES",
+    "concepto": "INMUEBLES POR DESTINACIÓN\n (570, 1121 Y 2420)",
+    "definicion": "art. 570, son ciertos bienes muebles que la ley reputa inmuebles por estar permanentemente destinados al uso, cultivo o beneficio de un inmueble, y que hayan sido puestas allí por el dueño de este, como las cañerías, los animales destinados al cultivo o beneficio de una finca, abonos o calderas"
+  },
+  {
+    "id": "156",
+    "rama": "DERECHO CIVIL",
+    "asignatura": "BIENES",
+    "concepto": "DERECHO DE PROPIEDAD",
+    "definicion": "el dominio o propiedad está definido en el art. 582 CC como un derecho real en una cosa corporal para gozar y disponer de ella arbitrariamente, no siendo contra ley o contra derecho ajeno. Esta definición está complementada en los arts. 583 y 584 CC, que abren la propiedad y la despliegan sobre las cosas incorporales, sobre las que recae una especie de propiedad (“propietarización de los derechos”)."
+  },
+  {
+    "id": "157",
+    "rama": "DERECHO CIVIL",
+    "asignatura": "BIENES",
+    "concepto": "FACULTADES DEL DOMINIO",
+    "definicion": "potestades o posibilidades que el derecho de propiedad abre para su titular. Deben diferenciarse de los caracteres del dominio."
+  },
+  {
+    "id": "158",
+    "rama": "DERECHO CIVIL",
+    "asignatura": "BIENES",
+    "concepto": "USO DEL DOMINIO\n (IUS UTENDI)",
+    "definicion": "poder o potestad de servirse de la cosa de acuerdo con su naturaleza. Esto puede observarse en los arts. 764, 1915, 575, 811, 1946 y 592 CC"
+  },
+  {
+    "id": "159",
+    "rama": "DERECHO CIVIL",
+    "asignatura": "BIENES",
+    "concepto": "GOCE DEL DOMINIO",
+    "definicion": "poder que le permite al propietario obtener el disfrute natural o civil de la cosa, sin detrimento de la misma. En consecuencia, se trata sobre poder apropiarse de los frutos de la cosa, ya sea natural o civilmente."
+  },
+  {
+    "id": "160",
+    "rama": "DERECHO CIVIL",
+    "asignatura": "BIENES",
+    "concepto": "FRUTOS NATURALES",
+    "definicion": "productos que una cosa da de manera periódica, con o sin intervención humana, sin detrimento de la cosa que produce el fruto."
+  },
+  {
+    "id": "161",
+    "rama": "DERECHO CIVIL",
+    "asignatura": "BIENES",
+    "concepto": "FRUTOS CIVILES",
+    "definicion": "productos jurídicos obtenidos por la sesión contractual del uso de una cosa corporal o incorporal. Se denominan rentas o intereses."
+  },
+  {
+    "id": "162",
+    "rama": "DERECHO CIVIL",
+    "asignatura": "BIENES",
+    "concepto": "DISPOSICIÓN\n (IUS ABUTENDI)",
+    "definicion": "poder de determinación del destino de la cosa, entendido como aquello que le sucede"
+  },
+  {
+    "id": "163",
+    "rama": "DERECHO CIVIL",
+    "asignatura": "BIENES",
+    "concepto": "DISPOSICIÓN MATERIAL TOTAL",
+    "definicion": "Destrucción de la cosa, como en el caso de:\n  -los bienes consumibles o de quien quiere obtener sus productos con detrimento\n  - caso de la destrucción pura y dura sin objetivo económico alguno (renuncia al derecho de dominio)."
+  },
+  {
+    "id": "164",
+    "rama": "DERECHO CIVIL",
+    "asignatura": "BIENES",
+    "concepto": "DISPOSICIÓN MATERIAL PARCIAL",
+    "definicion": "destrucción parcial o modificación de la cosa"
+  },
+  {
+    "id": "165",
+    "rama": "DERECHO CIVIL",
+    "asignatura": "BIENES",
+    "concepto": "DISPOSICIÓN JURÍDICA TOTAL",
+    "definicion": "acto de enajenación de la cosa."
+  },
+  {
+    "id": "166",
+    "rama": "DERECHO CIVIL",
+    "asignatura": "BIENES",
+    "concepto": "DISPOSICIÓN JURÍDICA PARCIAL",
+    "definicion": "puede disponer de una fracción de la cosa, a través de distintos planos, como una enajenación parcial (generando o no una comunidad), la creación de un derecho real distinto del dominio sobre otro sujeto (de garantía o goce) o cuando se cede gratuitamente el uso a un tercero"
+  },
+  {
+    "id": "167",
+    "rama": "DERECHO CIVIL",
+    "asignatura": "BIENES",
+    "concepto": "FUNCIÓN SOCIAL DE LA PROPIEDAD",
+    "definicion": "en virtud de esta, ordenamiento puede imponer a la propietaria restricciones o limitaciones a su derecho que deriven del interés público. Se discute si respecto de estas limitaciones procede la indemnización, pero se debe entender que esto está resuelto por la CPR de forma que no deben ser indemnizadas aquellas restricciones que no impliquen privación (entendida como despojo29) de un atributo o facultad del dominio. Esto se debe a que, si la función social impusiera la obligación de indemnizar por parte del Estado, el costo de la regulación lo terminaría pagando igualmente el colectivo y no el propietario.\n *La delimitación entre privación y limitación del dominio es una cuestión compleja y altamente debatida"
+  },
+  {
+    "id": "168",
+    "rama": "DERECHO CIVIL",
+    "asignatura": "BIENES",
+    "concepto": "PROPIEDAD PLENA",
+    "definicion": "La propietaria posee las máximas facultades que provee el derecho: uso, goce y disposición."
+  },
+  {
+    "id": "169",
+    "rama": "DERECHO CIVIL",
+    "asignatura": "BIENES",
+    "concepto": "NUDA PROPIEDAD",
+    "definicion": "La propietaria solo posee la facultad de disposición, el uso y el goce los ha otorgado en virtud del derecho de usufructo (derecho real)."
+  },
+  {
+    "id": "170",
+    "rama": "DERECHO CIVIL",
+    "asignatura": "BIENES",
+    "concepto": "PROPIEDAD ABSOLUTA",
+    "definicion": "Es aquella que no encuentra ninguna limitación y es posible pasarla a manos de otra persona. Según Peñailillo, es aquella que no está sometida a duración o término."
+  },
+  {
+    "id": "171",
+    "rama": "DERECHO CIVIL",
+    "asignatura": "BIENES",
+    "concepto": "PROPIEDAD FIDUCIARIA",
+    "definicion": "Art. 733 Se llama propiedad fiduciaria la que está sujeta al gravamen de pasar a otra persona, por el hecho de verificarse una condición. La constitución de la propiedad fiduciaria se llama fideicomiso. Este nombre se da también a la cosa constituida en propiedad fiduciaria.\n Existe una contingencia incierta o una condición que cumplida hará que la propiedad pase a manos de otra persona. Se dice que se encuentra sujeta a una modalidad (desde el punto del propietario fiduciario, su derecho está sometido a una condición resolutoria). En este sentido, nos encontramos ante un propietario fiduciario (o fideocomitente), el fiduciario (persona de confianza a cuya buena fe el fiduciario encomienda algún encargo reservado constituido en bienes, para administrarlos y dar cumplimiento a la finalidad encomendada) y el beneficiario (aquel en cuyo favor se ejerce la administración de los bienes fideicomitidos)."
+  },
+  {
+    "id": "172",
+    "rama": "DERECHO CIVIL",
+    "asignatura": "BIENES",
+    "concepto": "COMUNIDAD",
+    "definicion": "indivisión de cualquier derecho que pertenece a dos o más sujetos y que se ejerce sobre la totalidad de un mismo objeto (comunidad de propiedad, de usufructo, de servidumbre, etc.).\n Hay comunidad cuando dos o más sujetos tienen un derecho de idéntica naturaleza jurídica sobre la totalidad de un mismo objeto (PEÑAILILLO)"
+  },
+  {
+    "id": "173",
+    "rama": "DERECHO CIVIL",
+    "asignatura": "BIENES",
+    "concepto": "COPROPIEDAD O CODOMINIO",
+    "definicion": "indivisión del derecho de domino. Dos sujetos tienen el dominio sobre la totalidad de un mismo objeto."
+  },
+  {
+    "id": "174",
+    "rama": "DERECHO CIVIL",
+    "asignatura": "BIENES",
+    "concepto": "COMUNIDAD PROINDIVISO",
+    "definicion": "es la auténtica comunidad, en los términos antes definidos, en la que el derecho de cada comunero se extiende a la totalidad del objeto común."
+  },
+  {
+    "id": "175",
+    "rama": "DERECHO CIVIL",
+    "asignatura": "BIENES",
+    "concepto": "COMUNIDAD PRODIVISO",
+    "definicion": "el derecho de cada sujeto recae sobre una parte físicamente determinada del objeto de que se trata, ejerciéndolo exclusivamente sobre esa parte, y además se extiende a otros sectores de la cosa en que hay efectiva comunión con los otros comuneros; estas partes comunes unen las distintas secciones exclusivas de los indivisarios. Es el caso de la copropiedad inmobiliaria en la cual, junto a ciertos bienes comunes (como el suelo), hay una comunidad prodiviso de algunas partes (por ej., interiores de cada departamento de habitación) sobre las que cada comunero ejerce derechos con exclusividad"
+  },
+  {
+    "id": "176",
+    "rama": "DERECHO CIVIL",
+    "asignatura": "BIENES",
+    "concepto": "COMUNIDAD ACTIVA",
+    "definicion": "constituyen una masa de bienes que funcionan desarrollando una determinada actividad económica (como es el caso de la copropiedad de las naves, que en el Derecho marítimo es regulada integralmente, o de muchas sucesiones hereditarias, en las que hay un establecimiento comercial o industrial que continúa indiviso y en producción en manos de los herederos."
+  },
+  {
+    "id": "177",
+    "rama": "DERECHO CIVIL",
+    "asignatura": "BIENES",
+    "concepto": "COMUNIDAD PASIVA",
+    "definicion": "no son más que un conjunto de bienes que estáticamente esperan la remoción de algún obstáculo para ser divididos entre los comuneros. De la lectura de las normas del cuasicontrato de comunidad se colige que el Código tiene más bien la visión de estas comunidades pasivas."
+  },
+  {
+    "id": "178",
+    "rama": "DERECHO CIVIL",
+    "asignatura": "BIENES",
+    "concepto": "DERECHO A VETO O DERECHO A PROHIBIR",
+    "definicion": "Consiste en la facultad de cada comunera de impedir las actuaciones de las otras en la cosa común (Peñailillo).\n · Es una notoria concreción de la doctrina romana, por lo que permite distinguirla. \n · Cualquiera puede oponerse a que en la cosa se ejecuten actos jurídicos o materiales (cualquiera puede prohibirlos). Este es un inconveniente de esta concepción, ya que al imponer unanimidad llega a paralizar la comunidad. En nuestra legislación no aparece reconocido expresamente, pero se entiende vigente considerando la concepción romana que ha seguido el CC. \n · La doctrina ha recurrido a diversos mecanismos o visiones respecto de esto: doctrina del agente oficioso y doctrina del mandato tácito y recíproco."
+  },
+  {
+    "id": "179",
+    "rama": "DERECHO CIVIL",
+    "asignatura": "BIENES",
+    "concepto": "DOCTRINA DEL AGENTE OFICIOSO",
+    "definicion": "El comunero que actúa lo hace como una agente oficiosa de las demás."
+  },
+  {
+    "id": "180",
+    "rama": "DERECHO CIVIL",
+    "asignatura": "BIENES",
+    "concepto": "DOCTRINA DEL MANDATO TÁCITO Y RECÍPROCO",
+    "definicion": "Se entiende que entre los comuneros existe un mandato que es tácito (no formulado expresamente) y que es recíproco (cada uno lo ha recibido de los demás), con el cual cualquiera puede efectuar actos de administración de la cosa común. (Peñailillo)\n · Según Peñailillo se discute la vigencia de este mandato"
+  },
+  {
+    "id": "181",
+    "rama": "DERECHO CIVIL",
+    "asignatura": "BIENES",
+    "concepto": "CUOTA",
+    "definicion": "· Es la porción ideal, determinada o determinable, que cada comunero tiene en el objeto de la comunidad (Peñailillo)\n · Estas cuotas pueden ser iguales o desiguales; a falta de prueba en contrario, han de entenderse iguales (arts. 1098, 2307). \n · Se expresan generalmente en fracciones o porcentajes (un tercio, un cuarto, veinte por ciento, etc.) \n · Su disposición es libre por el comunero."
+  },
+  {
+    "id": "182",
+    "rama": "DERECHO CIVIL",
+    "asignatura": "BIENES",
+    "concepto": "COPOSESIÓN",
+    "definicion": "La coposesión tiene lugar cuando dos o más personas detentan con ánimo de dueño, poseen, un mismo objeto. El Código admite la posibilidad (arts. 718 y 687). Siguiendo los principios posesorios, el ánimo de dueño debe inspirar a todos los coposeedores, aunque no todos detenten materialmente la cosa que en común se posee; basta con que uno de ellos la posea a nombre de todos."
+  },
+  {
+    "id": "183",
+    "rama": "DERECHO CIVIL",
+    "asignatura": "BIENES",
+    "concepto": "MODOS DE ADQUIRIR EL DOMINIO",
+    "definicion": "son hechos o actos jurídicos a los que la ley le atribuye el efecto específico de operar la adquisición del dominio. Existe reserva legal para la creación de modos de adquirir la propiedad (art. 19 Nº24 CPR), la que se ha concretado en la regulación del Art. 588 CC (no taxativo)"
+  },
+  {
+    "id": "184",
+    "rama": "DERECHO CIVIL",
+    "asignatura": "BIENES",
+    "concepto": "TÍTULO TRASLATICIO DE DOMINIO.",
+    "definicion": "Se definen como hechos o actos jurídicos que sirven como antecedente para el traslado del dominio sin operarla, ya que esta sólo opera cuando concurre el modo."
+  },
+  {
+    "id": "185",
+    "rama": "DERECHO CIVIL",
+    "asignatura": "BIENES",
+    "concepto": "LA TRADICIÓN",
+    "definicion": "es un modo de adquirir el dominio de las cosas y consiste en la entrega que el dueño hace de ellas a otro, habiendo por una parte la facultad e intención de transferir el dominio, y por otra la capacidad e intención de adquirirlo."
+  },
+  {
+    "id": "186",
+    "rama": "DERECHO CIVIL",
+    "asignatura": "BIENES",
+    "concepto": "TRADENTE",
+    "definicion": "Art. 671. Es la persona que por la tradición transfiere el dominio de la cosa entregada por él o a su nombre."
+  },
+  {
+    "id": "187",
+    "rama": "DERECHO CIVIL",
+    "asignatura": "BIENES",
+    "concepto": "ADQUIRENTE",
+    "definicion": "Art. 671. Es adquirente la persona que por la tradición adquiere el dominio de la cosa recibida por él o a su nombre."
+  },
+  {
+    "id": "188",
+    "rama": "DERECHO CIVIL",
+    "asignatura": "BIENES",
+    "concepto": "PRESCRIPCIÓN ADQUISITIVA\n (USUCAPIÓN)",
+    "definicion": "Basado en el art. 2492: Modo de adquirir las cosas ajenas por haberse poseído durante cierto lapso y concurriendo los demás requisitos legales."
+  },
+  {
+    "id": "189",
+    "rama": "DERECHO CIVIL",
+    "asignatura": "BIENES",
+    "concepto": "POSESIÓN",
+    "definicion": "Art. 700. La posesión es la tenencia de una cosa determinada con ánimo de señor o dueño, sea que el dueño o el que se da por tal tenga la cosa por sí mismo, o por otra persona que la tenga en lugar y a nombre de él.\n El poseedor es reputado dueño, mientras otra persona no justifica serlo."
+  },
+  {
+    "id": "190",
+    "rama": "DERECHO CIVIL",
+    "asignatura": "BIENES",
+    "concepto": "POSEEDOR",
+    "definicion": "Aquel que tiene en su poder una cosa determinada y proyecta voluntad de dueña. \n En otras palabras, el elemento esencial de la posesión es el ánimo de dueño, ya que la tenencia material puede faltar sin que cese la posesión (mientras alguien tenga la cosa en lugar y a nombre del poseedor).\n No es un derecho, es siempre un hecho en nuestro sistema. Esto determina que la posesión nunca puede ser objeto de negocios jurídicos (los derechos son objetos de negocios jurídicos), aunque puede ser un resultado fáctico de un negocio jurídico."
+  },
+  {
+    "id": "191",
+    "rama": "DERECHO CIVIL",
+    "asignatura": "BIENES",
+    "concepto": "TENENCIA",
+    "definicion": "situación de derecho en la que un sujeto de derecho tiene una cosa reconociendo sobre ella dominio ajeno. La poseedora de la cosa no pierde la posesión, ya que el art. 700 CC señala que la posesión puede ser teniendo la cosa por sí mismo o por otra persona que la tenga en lugar y a nombre de él. Este es el caso del préstamo."
+  },
+  {
+    "id": "192",
+    "rama": "DERECHO CIVIL",
+    "asignatura": "BIENES",
+    "concepto": "YUXTAPOSICIÓN LOCAL",
+    "definicion": "Es una creación doctrinal no reconocida por el CC. Fenómeno de hecho transitorio de utilización de cosa ajena, Estos casos pueden ocurrir o no en el marco de un fenómeno contractual mayor, por ejemplo, el caso de utilizar las sillas de la universidad durante las clases. En la mayor parte de los casos ocurre sin ninguna conciencia."
+  },
+  {
+    "id": "193",
+    "rama": "DERECHO CIVIL",
+    "asignatura": "BIENES",
+    "concepto": "CUASIPOSESIÓN",
+    "definicion": "Es la posesión respecto de las cosas incorporales, en la que se tiene la cosa y se actúa con ánimo de propietario del derecho, por ejemplo, un usufructo. Esto es indubitado y legalmente regulado respecto de los derechos reales, con la excepción de las servidumbres discontinuas y las continuas inaparentes.\n Respecto de los derechos personales es debatido doctrinariamente, ya que un sector afirma que se puede ganar por prescripción la calidad de acreedor, mientras que la mayoría de la doctrina sostiene lo contrario."
+  },
+  {
+    "id": "194",
+    "rama": "DERECHO CIVIL",
+    "asignatura": "BIENES",
+    "concepto": "POSESIÓN REGULAR",
+    "definicion": "Art. 702. Se llama posesión regular la que procede de justo título y ha sido adquirida de buena fe; aunque la buena fe no subsista después de adquirida la posesión. Se puede ser por consiguiente poseedor regular y poseedor de mala fe, como viceversa el poseedor de buena fe puede ser poseedor irregular."
+  },
+  {
+    "id": "195",
+    "rama": "DERECHO CIVIL",
+    "asignatura": "BIENES",
+    "concepto": "TÍTULO \n (EN MATERIA POSESORIA)",
+    "definicion": "el título es el acto que constituye el fundamento de la posesión. \n El art. 703 dispone: El justo título es constitutivo o translaticio de dominio."
+  },
+  {
+    "id": "196",
+    "rama": "DERECHO CIVIL",
+    "asignatura": "BIENES",
+    "concepto": "INTERVERSIÓN DE LA POSESIÓN",
+    "definicion": "es un fenómeno excepcional en el cual la posesión muta en mera tenencia, o viceversa. \n situación en que el poseedor efectúa, expresa o tácitamente, un reconocimiento de propietario al que verdaderamente lo es; en tal caso se transformaría en mero tenedor; los efectos serían los de una interrupción de la prescripción."
+  },
+  {
+    "id": "197",
+    "rama": "DERECHO CIVIL",
+    "asignatura": "BIENES",
+    "concepto": "ANIMUS",
+    "definicion": "El ánimo de dueño (el animus) es un elemento intelectual, psíquico, que consiste en tener la cosa como dueño, como propietario de ella; pero conviene precisar que no se trata de la convicción de titularidad, es decir, de ser efectivamente el dueño (convicción que más bien constituye la buena fe), sino simplemente de comportarse como dueño."
+  },
+  {
+    "id": "198",
+    "rama": "DERECHO CIVIL",
+    "asignatura": "BIENES",
+    "concepto": "AGREGACIÓN DE POSESIONES",
+    "definicion": "fenómeno que incide en el momento de inicio del cómputo del plazo. Es, según el art. 717 CC, la posibilidad de añadir la posesión de un antecesor a la posesión propia."
+  },
+  {
+    "id": "199",
+    "rama": "DERECHO CIVIL",
+    "asignatura": "BIENES",
+    "concepto": "INTERRUPCIÓN DE LA POSESIÓN",
+    "definicion": "momento en que por disposición de la ley la poseedora pierde todo el tiempo corrido y se reputa que no ha poseído nunca. Tiene dos modalidades conforme al art. 2501 CC, pudiendo ser civil o natural"
   }
 ]

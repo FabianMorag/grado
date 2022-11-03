@@ -28,6 +28,7 @@ const getAllQuestions = () => {
 
 const div = document.createElement('div')
 div.setAttribute('class', 'accordion accordion-flush')
+div.setAttribute('id', 'accordionFlushExample')
 document.body.append(div)
 
 const createCollapsable = (item, index) => {
@@ -66,7 +67,7 @@ const createCollapsable = (item, index) => {
 
 $('#gen-preg')[0].addEventListener('click', async () => {
   $('div>ul')[0].innerHTML = ''
-  div.innerHTML = ''
+  $('.accordion').innerHTML = ''
 
   getRandomQuestion().then((data) => {
     let { rama, asignatura, concepto } = data
@@ -75,7 +76,6 @@ $('#gen-preg')[0].addEventListener('click', async () => {
     let preg = document.createElement('li')
     preg.classList.add('list-group-item', 'list-group-item-primary')
     let area = document.createElement('small')
-    area.style.fontSize = '0.55em'
     let definicion = document.createElement('h3')
     area.textContent = rama + ' - ' + asignatura
     definicion.innerHTML = concepto.replaceAll('\n', '<br>')
@@ -103,10 +103,11 @@ $('#gen-res')[0].addEventListener('click', () => {
 $('#gen-todas')[0].addEventListener('click', () => {
   $('div>ul')[0].innerHTML = ''
   sessionStorage.removeItem('concepto')
-  if (div.innerHTML !== '') return
+  if ($('.accordion')[0].innerHTML !== '') return
 
-  div.setAttribute('id', 'accordionFlushExample')
   getAllQuestions().then((data) => {
-    data.forEach((e, i) => div.append(createCollapsable(e, i + 1)))
+    data.forEach((e, i) =>
+      $('.accordion')[0].append(createCollapsable(e, i + 1))
+    )
   })
 })

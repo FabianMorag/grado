@@ -5,3 +5,7 @@
 div {
   padding: 1rem;
 }
+
+small {
+  font-size: 0.55em;
+}
