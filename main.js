@@ -67,7 +67,7 @@ const createCollapsable = (item, index) => {
 
 $('#gen-preg')[0].addEventListener('click', async () => {
   $('div>ul')[0].innerHTML = ''
-  $('.accordion').innerHTML = ''
+  $('.accordion')[0].innerHTML = ''
 
   getRandomQuestion().then((data) => {
     let { rama, asignatura, concepto } = data
