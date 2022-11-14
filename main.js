@@ -25,7 +25,6 @@ $form.addEventListener('submit', async (e) => {
   let { value } = $input
   if (!value) return
 
-  $input.value = ''
   $questionAnswer.innerHTML = ''
   $accordion.innerHTML = ''
 
