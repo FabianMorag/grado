@@ -1,5 +1,6 @@
 * {
   font-size: 1.4rem;
+  font-family: 'Ubuntu', sans-serif;
 }
 
 div {
@@ -7,5 +8,22 @@ div {
 }
 
 .area {
-  font-size: 0.55em;
+  font-size: 0.8rem;
+}
+
+form {
+  display: flex;
+}
+
+button.search {
+  margin-left: 10px;
+}
+
+.searcher {
+  width: 25%;
+  min-width: 25rem;
+}
+
+.header {
+  display: flex;
 }
