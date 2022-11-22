@@ -1,4 +1,4 @@
-export { getQuestion, getRandomQuestion, getAnswers, getAllQuestions }
+export { getSearchedQuestion, getRandomQuestion, getAnswers, getAllQuestions }
 
 const API_URL =
   'https://sheet.best/api/sheets/4b800725-403b-432f-852a-e1ae08750dfc'
@@ -15,7 +15,7 @@ function removeAccentsAndCase(str) {
     .toLowerCase()
 }
 
-const getQuestion = (input) => {
+const getSearchedQuestion = (input) => {
   return fetch(JSON_PATH)
     .then((data) => data.json())
     .then((json) =>

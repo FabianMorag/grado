@@ -1,5 +1,5 @@
 import {
-  getQuestion,
+  getSearchedQuestion,
   getRandomQuestion,
   getAnswers,
   getAllQuestions,
@@ -30,7 +30,7 @@ $form.addEventListener('submit', async (e) => {
 
   sessionStorage.removeItem('concepto')
 
-  getQuestion(value).then((data) => {
+  getSearchedQuestion(value).then((data) => {
     data.forEach((e, i) => $accordion.append(createCollapsable(e, i + 1)))
   })
 })
@@ -114,7 +114,7 @@ const createCollapsable = (item, index) => {
   collapse.setAttribute('data-bs-parent', '#accordionFlushExample')
   let body = document.createElement('div')
   body.setAttribute('class', 'accordion-body')
-  body.innerHTML = definicion.replaceAll('\n', '<br>')
+  body.innerHTML = definicion ? definicion.replaceAll('\n', '<br>') : ''
   collapse.append(body)
   divItem.append(collapse)
 
